@@ -27,9 +27,9 @@ baseurl: "/docsy-jekyll" # the subpath of your site, e.g. /blog
 url: "https://shortpatti.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/shortpatti/docsy-jekyll"
+repo: "https://github.com/shortpatti/aboutme"
 github_user: "shortpatti"
-github_repo: "docsy-jekyll"
+github_repo: "aboutme"
 
 # Optional
 twitter: pscmdesigns
