@@ -9,4 +9,4 @@ My expertise is in taking the guesswork out of complex technical content for bus
 
 You can find a variety of writing samples from blog articles to getting started guides all the way down to UX writing for UI stings and group policies. 
 
-Take a look around and, if you'd like, provide feedback.
+>Take a look around and, if you'd like, provide feedback.
