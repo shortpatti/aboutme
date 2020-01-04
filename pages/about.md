@@ -5,9 +5,10 @@ permalink: /about/
 
 # About
 
-This is a [starter template](https://vsoch.github.com/docsy-jekyll/) for a Docsy jekyll theme, based
-on the Beautiful [Docsy](https://github.com/google/docsy) that renders with Hugo. This version is intended for
-native deployment on GitHub pages. See the [respository]({{ site.repo }}) for more details.
+I have a vast array of writing experience as well as instrucational design, visual design, video production, as well as voice over.  I wanted a way to show my writing samples in a format other than a README.md file on GitHub.  Read more about my experience, skills, and training below.  If you are interested in starting a conversation with me, feel free to [pencil in some time to chat](https://calendly.com/pattishort/15min). I'm always looking for a new problem to solve. 
+
+~ Thank you.
+
 
 ## Patti Short  
 >Sr. Technical Writer \| UX Writer \| Visual Designer \| Voiceover Professional<br /> 
@@ -226,6 +227,3 @@ Worked with the Android and iOS development team to rewrite the SDK and API guid
 
 
 
-
-For features, getting started with development, see the {% include doc.html name="Getting Started" path="getting-started" %} page. Would you like to request a feature or contribute?
-[Open an issue]({{ site.repo }}/issues)
