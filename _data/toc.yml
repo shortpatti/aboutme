@@ -5,22 +5,9 @@
       url: "docs/ux-writing-samples"
     - title: "KB Article Sample"
       url: "docs/kb-article-samples"
-    - title: "Get Started Sample"
-      url: "docs/getting-started"
-      children:
-        - title: Features
-          url: "docs/getting-started#getting-started"
-        - title: Development
-          url: "docs/getting-started#development"
-        - title: Customization
-          url: "docs/getting-started#customization"
     - title: "Blog Article Samples"
       url: "news"
-    - title: "Extras"
-      url: "docs/extras"
-      children:
-        - title: Tags Page
-          url: "tags"
-    - title: "About"
-      url: "about"
+    - title: Tags Page
+      url: "tags"
+
 

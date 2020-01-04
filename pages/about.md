@@ -26,32 +26,26 @@ I have a vast array of writing experience as well as instrucational design, visu
 
 #### Visual Designer, Voiceover Professional, and Video Production Specialist
 
- PSCM Designs LLC   
+ **PSCM Designs LLC**   
  Redmond, WA   
  September 2019 - present   
 
-##### Freelance Network Content Writer
+ | Project | Title | Duration | Job Description |
+ | ------- | ----- | -------- | --------------- |
+ | [**ZPE Systems**](https://www.zpesystems.com) | Freelance Network Content Writer (100% remote) | September 2019 - January 2020 | - Designed the eBook template for marketing campaigns.<br />- Wrote an eBook for a marketing [campaign](https://www.zpesystems.com/ebook-how-automation-is-changing-the-datacenter-landscape/) called ["How Automation is Transforming the Datacenter Landscape"](../assets/pdf/eBook-sample.pdf)<br>- Wrote video scripts, provided the voice over, and did the final video production for pre-recorded screen capture how-to videos. |
+ | **WAX.io** | Contributing Technical Marketing Writer (100% remote) | July 2019 - August 2019 | Wrote a blog article called ["What is NET, CPU and RAM on the WAX Blockchain?"](https://wax.io/blog/what-is-net-cpu-and-ram-on-the-wax-blockchain). |
 
- ZPE Systems   
- Remote   
- September 2019 - January 2020   
-
-##### Contributing Technical Marketing Writer
-
- WAX.io  
- Remote  
- July 2019 - August 2019  
 
 #### Technical Writer II
 
- LivePerson    
+ **LivePerson**    
  Seattle, WA and remote   
  March 2019 - June 2019   
 
 Worked with the Android and iOS development team to rewrite the SDK and API guides for mobile messaging.
 
 #### Technical Writer II  
- Microsoft    
+ **Microsoft**    
  Redmond, WA and remote    
  January 2018 to January 2019
 
@@ -60,7 +54,7 @@ Worked with the Android and iOS development team to rewrite the SDK and API guid
 
 
 #### Contract Research Librarian &amp; Technical Writer  
- Oculus VR, a Facebook company    
+ **Oculus VR, *a Facebook company***    
  Redmond, WA   
  July 2017 to December 2017  
 
@@ -69,7 +63,7 @@ Worked with the Android and iOS development team to rewrite the SDK and API guid
 
 
 #### Software Technical Writer & MadCap Flare Conversion Specialist
- GE Healthcare   
+ **GE Healthcare**   
  Seattle, WA and remote   
  August 2016 to May 2017  
 
@@ -78,7 +72,7 @@ Worked with the Android and iOS development team to rewrite the SDK and API guid
 
 
 #### Technical Writer II & MadCap Flare Conversion Specialist
- Amazon   
+** Amazon**   
  Seattle, WA and remote   
  September 2015 to July 2016  
 
@@ -89,7 +83,7 @@ Worked with the Android and iOS development team to rewrite the SDK and API guid
 
 
 #### Contract Technical Writer &amp; System Admin  
- Charter Communications    
+ **Charter Communications**    
  Greenwood Village, CO   
  March 2015 to September 2015  
 
@@ -108,7 +102,7 @@ Worked with the Android and iOS development team to rewrite the SDK and API guid
 
 
 #### Technical Writer & MadCap Flare Conversion Specialist
- SolidFire, a NetApp company   
+ **SolidFire, *a NetApp company***   
  Boulder, CO     
  January 2014 to October 2014  
 
@@ -119,7 +113,7 @@ Worked with the Android and iOS development team to rewrite the SDK and API guid
 
 
 #### Contract Technical Writer  
- Sybase, an SAP company   
+ **Sybase, *an SAP company***   
  Broomfield, CO  
  December 2012 to November 2013  
 
@@ -138,7 +132,7 @@ Worked with the Android and iOS development team to rewrite the SDK and API guid
 
 
 #### Contract Sr. Technical Writer & MadCap Flare Conversion Specialist
- Level 3 Communications  
+ **Level 3 Communications, *a CenturyLink company***  
  Broomfield, CO  
  August 2011 to July 2012   
 
