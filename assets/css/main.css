@@ -3,7 +3,7 @@ layout: null
 excluded_in_search: true
 ---
 
-@import "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i";
+@import "https://fonts.googleapis.com/css?family=Montserrat|Roboto|Roboto+Condensed|Roboto+Slab&display=swap";
 @fa-font-path: "../webfonts";
 
 .gh-source {
@@ -125,7 +125,7 @@ excluded_in_search: true
     --breakpoint-md: 768px;
     --breakpoint-lg: 992px;
     --breakpoint-xl: 1200px;
-    --font-family-sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    --font-family-sans-serif: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
 }
 
@@ -165,7 +165,7 @@ section {
 
 body {
     margin: 0;
-    font-family: open sans, -apple-system, BlinkMacSystemFont, segoe ui, Roboto, helvetica neue, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
+    font-family: Roboto, -apple-system, BlinkMacSystemFont, segoe ui, Roboto, helvetica neue, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
@@ -194,6 +194,7 @@ h5,
 h6 {
     margin-top: 0;
     margin-bottom: .5rem
+    font-family: 'Roboto Slab', serif;
 }
 
 p {
@@ -6760,7 +6761,7 @@ button.close {
     z-index: 1070;
     display: block;
     margin: 0;
-    font-family: open sans, -apple-system, BlinkMacSystemFont, segoe ui, Roboto, helvetica neue, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
+    font-family: Roboto, -apple-system, BlinkMacSystemFont, segoe ui, Roboto, helvetica neue, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
@@ -6885,7 +6886,7 @@ button.close {
     z-index: 1060;
     display: block;
     max-width: 276px;
-    font-family: open sans, -apple-system, BlinkMacSystemFont, segoe ui, Roboto, helvetica neue, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
+    font-family: Roboto, -apple-system, BlinkMacSystemFont, segoe ui, Roboto, helvetica neue, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol;
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
@@ -17955,8 +17956,8 @@ a.text-dark:focus {
 
 .td-navbar .navbar-brand svg {
     display: inline-block;
-    margin: 0 10px;
-    height: 30px
+    margin: 0 20px;
+    height: 48px
 }
 
 .td-navbar .nav-link {
@@ -18417,7 +18418,7 @@ html body .md-typeset .headerlink {
 .td-search-input {
     background: transparent;
     border-radius: 1rem;
-    font-family: "font awesome 5 free", open sans, -apple-system, BlinkMacSystemFont, segoe ui, Roboto, helvetica neue, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol
+    font-family: "font awesome 5 free", Roboto, -apple-system, BlinkMacSystemFont, segoe ui, Roboto, helvetica neue, Arial, sans-serif, apple color emoji, segoe ui emoji, segoe ui symbol
 }
 
 .td-search-input.form-control:focus {

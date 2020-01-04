@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Docsy Jekyll Theme
+title: this is a title
 permalink: /
 ---
 
@@ -8,7 +8,21 @@ permalink: /
 
 This is a starter template for a docsy jekyll theme.
 
-![assets/img/docsy-jekyll.png](assets/img/docsy-jekyll.png)
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
+ 
+```
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
+```
+
 
 ## Purpose
 
