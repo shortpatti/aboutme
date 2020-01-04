@@ -19,8 +19,6 @@
     - title: "Extras"
       url: "docs/extras"
       children:
-        - title: "Work Experience"
-          url: "docs/resume"
         - title: Tags Page
           url: "tags"
     - title: "About"

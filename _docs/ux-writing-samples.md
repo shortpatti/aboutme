@@ -2,7 +2,7 @@
 title: UX Writing Samples
 tags: 
   - ux writing
-  - before/after
+  - tech writing
 description: Take a look at the before and after samples.
 ---
 
@@ -51,12 +51,11 @@ The iOS Mobile Messaging SDK version 3.8 is compatible with Xcode 10.2, Swift ve
 
 
 ## Group Policies
+>**Project:**  UX writing challenge <br>
+>**Description:** Simplify, simplify, simplify.<br>
+>**Date of rewrite:** January 8, 2019 <br>
 
 #### Do not sync browser setting 
-
-**Project:**  UX writing challenge <br>
-**Description:** Simplify, simplify, simplify.<br>
-**Date of rewrite:** January 8, 2019 <br>
 
 ##### Original
 Prevent the "browser" group from syncing to and from this PC. This turns off and disables the "browser" group on the "sync your settings" page in PC settings. The "browser" group contains settings and info like history and favorites.
@@ -73,7 +72,7 @@ By default, the “browser” group syncs automatically between user’s devices
 
 | Setting | Description |
 | ------- | ----------- |
-| Disabled or not configured **(default)** -  | Allowed/turned on. |
+| Disabled or not configured **(default)** | Allowed/turned on. |
 | Enabled | Prevent/turned off. |
 
 >> **Related policies:** Prevent users from turning on browser syncing.
@@ -82,9 +81,6 @@ By default, the “browser” group syncs automatically between user’s devices
 
 #### Prevent enterprise websites from loading non-enterprise content...
 
->**Project:**  UX writing challenge <br>
->**Description:** Simplify, simplify, simplify.<br>
->**Date of rewrite:** January 8, 2019 <br>
 
 |Original  |Rewrite  |
 |---------|---------|
@@ -92,10 +88,6 @@ By default, the “browser” group syncs automatically between user’s devices
 
 
 #### Enable automatic MDM enrollment using default Azure AD credentials
-
->**Project:**  UX writing challenge <br>
->**Description:** Simplify, simplify, simplify.<br>
->**Date of rewrite:** January 8, 2019 <br>
 
 
 |Original  |Rewrite  |
@@ -105,9 +97,6 @@ By default, the “browser” group syncs automatically between user’s devices
 
 #### Disable MDM Enrollment
 
->**Project:**  UX writing challenge <br>
->**Description:** Simplify, simplify, simplify.<br>
->**Date of rewrite:** January 8, 2019 <br>
 
 |Original  |Rewrite  |
 |---------|---------|

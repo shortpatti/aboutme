@@ -10,9 +10,8 @@ description:
 >Sr. Technical Writer \| UX Writer \| Visual Designer \| Voiceover Professional<br /> 
 > *I am passionate about creating content experiences that help IT Pros achieve more with technology.*
 
-I specialize in taking the guesswork out of complex technical content for busy IT professionals. I am an experienced and self-driven Technical Writer with a degree and a strong background in computer networking and system administration, and more than 20 years in the tech industry. Proudly, over the last ten years, I have helped organizations reduce, simplify, and restructure their content, ensuring quality and accuracy, and increasing overall customer satisfaction rates.
 
-## Accomplishments
+## Accomplishments         
 
 - Streamlined a weekly team status report for the Amazon executive team reducing the time to compile and deliver the report by ~4 hours (more than half).
 - Rewrote a decades-old installation/upgrade guide for the GE Healthcare customers and support team reducing the time to install/upgrade, data loss or corruption, and support calls.
