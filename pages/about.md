@@ -5,7 +5,9 @@ permalink: /about/
 
 # About
 
-I have a vast array of writing experience as well as instrucational design, visual design, video production, as well as voice over.  I wanted a way to show my writing samples in a format other than a README.md file on GitHub.  Read more about my experience, skills, and training below.  If you are interested in starting a conversation with me, feel free to [pencil in some time to chat](https://calendly.com/pattishort/15min). I'm always looking for a new problem to solve. 
+I have a vast array of writing experience as well as instructional design, visual design, video production, as well as voice over.  I wanted a way to show my writing samples in a format other than a README.md file on GitHub. Please read about my experience, skills, and training below.  
+
+If you are interested in starting a conversation with me, feel free to [pencil in some time to chat](https://calendly.com/pattishort/15min). I'm always looking for a new problem to solve. 
 
 ~ Thank you.
 
@@ -17,10 +19,9 @@ I have a vast array of writing experience as well as instrucational design, visu
 
 ### Accomplishments         
 
-- Streamlined a weekly team status report for the Amazon executive team reducing the time to compile and deliver the report by ~4 hours (more than half).
-- Rewrote a decades-old installation/upgrade guide for the GE Healthcare customers and support team reducing the time to install/upgrade, data loss or corruption, and support calls.
-- As a MadCap Flare Conversion Specialist, built a _**custom**_ authoring environment and converted legacy content for several large corporations maximizing content reuse and reducing the cost of creating, managing, and publishing content.
-
+- Streamlined a weekly team status report for the Amazon executive team, reducing the time to compile and deliver the report by ~4 hours (more than half).
+- Rewrote a decades-old installation/upgrade guide for the GE Healthcare customers and support team, reducing the time to install/upgrade, data loss or corruption, and support calls.
+- Built a _**custom**_ authoring environment in MadCap Flare and converted legacy content for several large corporations maximizing content reuse and reducing the cost of creating, managing, and publishing content.
 
 ### Work Experience
 
@@ -68,7 +69,7 @@ Worked with the Android and iOS development team to rewrite the SDK and API guid
  August 2016 to May 2017  
 
 - Collaborated with developers and customers to rewrite an outdated installation/upgrade guide, reducing data loss or corruption as well as support calls.
-- Built a custom MadCap Flare authoring environment and converted legacy documentation created in Structured FrameMaker and Microsoft Word and to maximize content reuse and reduce the cost of creating, managing, and publishing content.
+- 
 
 
 #### Technical Writer II & MadCap Flare Conversion Specialist
@@ -76,10 +77,7 @@ Worked with the Android and iOS development team to rewrite the SDK and API guid
  Seattle, WA and remote   
  September 2015 to July 2016  
 
-- Wrote new feature announcements and task-oriented user guides for the Amazon Fulfillment Centers (FCs). 
-- Streamlined a weekly team status report for the Amazon executive team reducing the time to compile and deliver the report by ~4 hours (more than half).
-- Built a custom MadCap Flare authoring environment and converted legacy documentation created in Microsoft Word and to maximize content reuse and reduce the cost of creating, managing, and publishing content.
-
+Wrote feature announcements and task-oriented guides for the employees at the Amazon Fulfillment Centers (FCs). 
 
 
 #### Contract Technical Writer &amp; System Admin  
@@ -96,8 +94,7 @@ Worked with the Android and iOS development team to rewrite the SDK and API guid
  Superior, CO  
  October 2014 to December 2014  
 
-- Built a custom MadCap Flare authoring environment and converted legacy documentation created in Microsoft Word and to maximize content reuse and reduce the cost of creating, managing, and publishing content.
-- Trained technical writers and instructional designers to use and customize MadCap Flare.
+Trained technical writers and instructional designers to use and customize MadCap Flare.
 
 
 
@@ -106,7 +103,6 @@ Worked with the Android and iOS development team to rewrite the SDK and API guid
  Boulder, CO     
  January 2014 to October 2014  
 
-- Built a custom MadCap Flare authoring environment and converted legacy documentation created in Microsoft Word and to maximize content reuse and reduce the cost of creating, managing, and publishing content.
 - Wrote release notes, API guides, user guides, and online help for the support team, field technicians, developers, and customers. 
 - Contributed and edited content for white papers, best practice articles, and solution briefs for the cloud storage solution.
 
@@ -136,8 +132,7 @@ Worked with the Android and iOS development team to rewrite the SDK and API guid
  Broomfield, CO  
  August 2011 to July 2012   
 
-- Wrote provisioning procedures in an online help format for field technicians in the fiber optic cable industry.
-- Built a custom MadCap Flare authoring environment and converted legacy documentation created in Microsoft Word and to maximize content reuse and reduce the cost of creating, managing, and publishing content.
+Wrote provisioning procedures in an online help format for field technicians in the fiber optic cable industry.
 
 ### Skills
 
