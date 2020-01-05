@@ -71,9 +71,9 @@ You can record anything and everything on your screen, but it can end up as a no
 
      - **Watch your mouse cursor.** You'll use it to show the viewer where to follow along with while you explain things. It's essential, so make sure you make it as useful as possible.
 
-       - ** Don't circle things.** Moving your mouse around and around as if you're talking with your hands will leave your viewers confused and unsure of where they should look. Instead, move it deliberately and with purpose.
+       - **Don't circle things.** Moving your mouse around and around as if you're talking with your hands will leave your viewers confused and unsure of where they should look. Instead, move it deliberately and with purpose.
 
-       - ** Don't move it at the speed of light.** If you're moving your mouse across the screen too fast, your audience will struggle to follow along, and, ultimately, will stop watching.
+       - **Don't move it at the speed of light.** If you're moving your mouse across the screen too fast, your audience will struggle to follow along, and, ultimately, will stop watching.
 
        - **If you can, try to cut out mistakes and unneeded content**. Mistakes happen to the best of us. You'll be recording, and your mouse moves to the wrong place, you click the wrong thing, or something unexpected happens. It's okay – it's fixable.
 
@@ -107,7 +107,7 @@ People need a prompt, even if it's as simple as a nudge to visit the website or 
 
 ## Final thoughts
 
->>It’s all about balance:
+It’s all about balance:
 >>*Explain; don’t lecture.*<br />
 >>*Engage; don’t bore.*<br />
 >>*Enchant; don’t demand.*
