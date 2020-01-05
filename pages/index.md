@@ -6,7 +6,7 @@ permalink: /
 
 # Welcome
 
-The Writing Samples document library was built using Jekyll hosted on GitHub (gh-pages) and markdown for writing the content. I built this document library as a recent challenge I was given.  I have worked in markdown steadily since early 2018, but I started using markdown in 2015. 
+The Writing Samples document library was built using Jekyll hosted on GitHub (gh-pages) and markdown for writing the content. I built this document library as a recent challenge I was given.  
 
 <hr />
 
