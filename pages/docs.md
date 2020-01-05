@@ -18,7 +18,7 @@ particular page.
     </div>{% endfor %}
 </div>
 
->If you're looking for more creative writing sample, go to the [Blog Article Samples](news.md) page.  I'm currently curating different types of articles ranging from:
+>If you're looking for more creative writing sample, go to the [Other Writing Samples](news.md) page.  I'm currently curating different types of articles ranging from:
 >- CMC Arthtris
 >- Herbs: Benefits and Remedies
 >- Unaweep Tabeguache Scenic Byway
