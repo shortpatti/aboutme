@@ -269,9 +269,9 @@ When using ViewController Mode, on the Navigation Bar Back Button, you can simpl
       You can find all the related configurations in the [resources ID table](), under Photo Sharing.
 
 ## Group Policies
->**Project:**  UX writing challenge
->**Description:** Simplify, simplify, simplify.
->**Date of the rewrite:** January 8, 2019 
+>**Project:**  UX writing challenge   
+>**Description:** Simplify, simplify, simplify.   
+>**Date of the rewrite:** January 8, 2019   
 
 #### Do not sync browser setting 
 
