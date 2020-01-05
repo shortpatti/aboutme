@@ -56,7 +56,7 @@ Worked with the Android and iOS development team to rewrite the SDK and API guid
  January 2018 to January 2019
 
 - Worked with the Microsoft Edge development team to rewrite the Microsoft Edge Enterprise Deployment Guide. 
-- Worked with the networking team to update the VPN and other networking content.
+- Worked with the networking team to update the Always On VPN and other networking content.
 
 
 #### Contract Research Librarian &amp; Technical Writer  
