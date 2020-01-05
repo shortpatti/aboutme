@@ -6,6 +6,10 @@ categories: creative writing
 badges:
  - type: success
    tag: video-production
+ - type: info
+   tag: scriptwriting
+ - type: secondary
+   tag: voiceover
 ---
 
 Everyone likes learning something new. Your audience is a curious bunch, no matter who they are, which is why how-to videos are perfect for any target audience. These videos are short, engaging breakdowns of broader concepts or tasks, and they are one of the most effective ways to quickly show viewers a big idea or how to do something.
