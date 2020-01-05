@@ -1,5 +1,5 @@
 ---
-title: "4 Qualities of a Great How-To Video (draft)"
+title: "4 Qualities of a Great How-To Video (blog draft)"
 date:   2020-01-04 11:41:21 -0800
 author: Patti Short
 categories: creative writing

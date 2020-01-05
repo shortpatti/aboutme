@@ -3,6 +3,9 @@ title: UX Writing Samples
 tags: 
   - ux writing
   - tech writing
+  - group policies
+  - release notes
+  - how-tos 
 description: Take a look at the before and after samples.
 ---
 

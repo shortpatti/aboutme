@@ -2,6 +2,8 @@
 title: KB Article Sample
 tags: 
   - ux writing
+  - tech writing
+  - how-tos 
 description: Knowledgebase articles solve issues with products or services.  
 ---
 
@@ -38,11 +40,11 @@ Shipment number
    <details><summary>Does a <b>9</b> display and is the Promised ship date blank?</summary><p>
     <ol start="a">
     <li>To the left of the shipment, click the check box to select it. </li>
-    <li>On the toolbar, click <b>Row</b> and then select <b>Routing options.</b><div class="note"><b>Note.</b> If the <i>A detail rate was not found</i> error message displays, close the message.</div></li>
+    <li>On the toolbar, click <b>Row</b> and then select <b>Routing options.</b><div class="note" style="padding: 3px 0px; margin: 6pt 0pt;background-color: yellow;"><b>Note.</b> If the <i>A detail rate was not found</i> error message displays, close the message.</div></li>
     <li>Very that the check box is still selected.</li>
     <li>On the toolbar, click <b>Select</b> and then click the <b>Dates/Times</b> tab.</li>
     <li>Re-enter the promised delivery date and time even if it's already populated.</li>
-    <li>Click the <b>Recalculate promised ship date and time</b> check box to select it and click <b>OK</b>. <p><b>Note.</b> If the <i>Promised ship date and time in past</i> message displays, click <b>OK</b>.</p></li>
+    <li>Click the <b>Recalculate promised ship date and time</b> check box to select it and click <b>OK</b>. <div class="note" style="padding: 3px 0px; margin: 6pt 0pt;background-color: yellow;"><b>Note.</b> If the <i>Promised ship date and time in past</i> message displays, click <b>OK</b>.</div></li>
     <li>You can proceed to step 6.</li>
     </ol>
    </p>
