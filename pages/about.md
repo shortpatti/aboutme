@@ -7,9 +7,12 @@ permalink: /about/
 
 I have a vast array of writing experience as well as instructional design, visual design, video production, as well as voice over.  I wanted a way to show my writing samples in a format other than a README.md file on GitHub. Please read about my experience, skills, and training below.  
 
-If you are interested in starting a conversation with me, feel free to [pencil in some time to chat](https://calendly.com/pattishort/15min). I'm always looking for a new problem to solve. 
+My expertise is in taking the guesswork out of complex technical content for busy IT professionals. I am a self-driven Sr. Technical UX Writer with a degree and strong background in computer networking and system administration, and more than 20 years in the tech industry. Over the last ten years, I have helped organizations reduce, simplify, and restructure their content, ensuring quality and accuracy, and increasing overall customer satisfaction rates.
 
-~ Thank you.
+<hr />
+
+
+
 
 
 ## Patti Short  
