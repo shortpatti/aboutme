@@ -25,9 +25,9 @@ Take a look at the UX writing sample before and after versions.
 
 #### Rewrite 
 
-The iOS Mobile Messaging SDK version 3.8 is compatible with Xcode 10.2, Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5), and supported on iOS versions 10 through 12.
+The iOS Mobile SDK version 3.8 is compatible with Xcode 10.2, Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5), and supported on iOS versions 10 through 12.
 
-**Important:** The iOS Mobile Messaging SDK version 3.8 is not compatible with simulators when running in an Objective-C project.
+**Important:** The iOS Mobile SDK version 3.8 is not compatible with simulators when running in an Objective-C project.
 
 ##### Bug Fixes
 
@@ -37,7 +37,7 @@ The iOS Mobile Messaging SDK version 3.8 is compatible with Xcode 10.2, Swift ve
 
 - Fallback to Signup Flow still existed. The bug prevented users from starting an authenticated conversation, and instead, the conversation started an unauthenticated visitor mode chat.
 
-- Send Image (From Gallery) failed. The bug prevented users from uploading images larger than 3MB, resulting in a ‘file too large’ message. Version 3.8 of the Mobile Messaging SDK increased the image size limit to 5MB. 
+- Send Image (From Gallery) failed. The bug prevented users from uploading images larger than 3MB, resulting in a ‘file too large’ message. Version 3.8 of the Mobile SDK increased the image size limit to 5MB. 
 
 - **On iOS 12.2 Swift 5**, the conversation screen did not show the sent or received messages, and the margins appeared between messages. 
 
@@ -53,7 +53,7 @@ The iOS Mobile Messaging SDK version 3.8 is compatible with Xcode 10.2, Swift ve
 
 #### Mobile SDK - Photo and file sharing
 
-Mobile Messaging SDK v3.9 introduces a feature for agents within the app to share photos or files with the consumers.  Agents can share a reference photo or photos of any product to visually guide consumers with product awareness, steps on how to use the product, or review comments of a product.  Agents can also share files to provide consumers with information such as mortgage documents, product catalog, or transaction details as requested by consumers. Agents can even share photos or files in a resolved conversation to resume the conversation with the consumer.
+Mobile SDK v3.9 introduces a feature for agents within the app to share photos or files with the consumers.  Agents can share a reference photo or photos of any product to visually guide consumers with product awareness, steps on how to use the product, or review comments of a product.  Agents can also share files to provide consumers with information such as mortgage documents, product catalog, or transaction details as requested by consumers. Agents can even share photos or files in a resolved conversation to resume the conversation with the consumer.
 
 When the agent shares any supported file type, if the consumer isn't within the conversation view, they get a notification from the customer app only if the push notification is enabled. Otherwise, when the consumer returns, a thumbnail for the photo or file appears in the conversation window.
 
@@ -195,10 +195,11 @@ When using ViewController Mode, on the Navigation Bar Back Button, you can simpl
   - **Value:**"Photo Library Privacy Setting for Mobile App Messaging SDK for iOS"
 
 2. Set the camera privacy settings:
+
   - **Key:** NSCameraUsageDescription
   - **Value:**"Camera Privacy Setting for Mobile App Messaging SDK for iOS"
 
-   Values for these descriptions are up to the brand to define; these are only examples.
+    Values for these descriptions are up to the brand to define; these are only examples.
 
 3. Set the file-sharing privacy settings:
 
@@ -206,10 +207,11 @@ When using ViewController Mode, on the Navigation Bar Back Button, you can simpl
   - Privacy - Photo Library Usage Description
   - Privacy - Photo Library Additions Usage Description
 
-   iOS supports the preview of file types per iOS operating system and requires some configurations to be enabled ("YES") within the Host App's plist file. Enabling supports file sharing and the export and saving of photos.
+    iOS supports the preview of file types per iOS operating system and requires some configurations to be enabled ("YES") within the Host App's plist file. Enabling supports file sharing and the export and saving of photos.
 
 4. Save documents or photos to a directory belonging to the host app, enable the following flag with **caution**.  
-  >**Note:** A current limitation within the SDK causes the SQL files to be public if enabling this setting. Therefore, we suggest you do not enable this setting until a fix is available in a future release.  If this functionality is essential to your user flow, enable at the user's risk.
+  
+   >**Note:** A current limitation within the SDK causes the SQL files to be public if enabling this setting. Therefore, we suggest you do not enable this setting until a fix is available in a future release.  If this functionality is essential to your user flow, enable at the user's risk.
 
    LSSupportsOpeningDocumentsInPlace: Supports opening documents in place
 
@@ -288,8 +290,8 @@ By default, the “browser” group syncs automatically between user’s devices
 
 | Setting | Description |
 | ------- | ----------- |
-| Disabled or not configured **(default)** | Allowed/turned on. |
-| Enabled | Prevent/turned off. |
+| Disabled or not configured **(default)** | Allowed/turned on |
+| Enabled | Prevent/turned off |
 
 >> **Related policies:** Prevent users from turning on browser syncing.
 
@@ -297,25 +299,48 @@ By default, the “browser” group syncs automatically between user’s devices
 
 #### Prevent enterprise websites from loading non-enterprise content
 
+##### Original
 
-|Original  |Rewrite  |
-|---------|---------|
-|![Orginal browser group policy](../assets/img/gp-browser-before2.png)     |By default, non-enterprise sites open in Internet Explorer and Microsoft Edge outside of the Windows Defender Application Guard container.<p><table><tr><th>Setting</th><th>Description</th></tr><tr><td>Disabled or not configured <b>(default)</b></td><td>Allowed </td></tr><tr><td>Enabled</td><td>Prevented</td></tr></table></p>  |
+![Orginal browser group policy](../assets/img/gp-browser-before2.png)
+
+##### Rewrite 
+
+By default, non-enterprise sites open in Internet Explorer and Microsoft Edge outside of the Windows Defender Application Guard container.
+
+| Setting | Description |
+| ------- | ----------- |
+| Disabled or not configured **(default)** | Allowed |
+| Enabled | Prevent |
 
 
 #### Enable automatic MDM enrollment using default Azure AD credentials
 
+##### Original 
 
-|Original  |Rewrite  |
-|---------|---------|
-|![Orginal MDM group policy](../assets/img/gp-mdm-before1.png)     |With this policy, you can automatically enroll a device to the Mobile Device Management (MDM) service configured in Azure Active Directory (AAD).  The device must be registered in AAD for enrollment to succeed. Once enrolled successfully, the device gets managed remotely by the MDM service.  <p><table><tr><th>Setting</th><th>Description</th></tr><tr><td>Not configured <b>(default)</b></td><td>Automatic MDM enrollment does not initiate. </td></tr><tr><td>Enabled</td><td>A task gets created to initiate MDM enrollment.</td></tr><tr><td>Disabled</td><td>Unenroll MDM.</td></tr></table></p>         |
+![Orginal MDM group policy](../assets/img/gp-mdm-before1.png)
+
+##### Rewrite
+
+With this policy, you can automatically enroll a device to the Mobile Device Management (MDM) service configured in Azure Active Directory (AAD).  The device must be registered in AAD for enrollment to succeed. Once enrolled successfully, the device gets managed remotely by the MDM service.  
+
+| Setting | Description |
+| ------- | ----------- |
+| Not configured **(default)** | Automatic MDM enrollment does not initiate.  |
+| Disabled | Unenroll from MDM. |
+| Enabled | A task gets created to initiate MDM enrollment. |
 
 
 #### Disable MDM Enrollment
 
+##### Original 
 
-|Original  |Rewrite  |
-|---------|---------|
-|![Orginal MDM group policy](../assets/img/gp-mdm-before2.png)     |With this policy, you can prevent Mobile Device Management (MDM) enrollment for all users.   <p><table><tr><th>Setting</th><th>Description</th></tr><tr><td>Disabled or not configured <b>(default)</b></td><td>Automatic MDM enrollment initiates. Enable MDM enrollment for all users. </td></tr><tr><td>Enabled</td><td>Disable MDM enrollment for all users. It does not unenroll existing MDM enrollments.</td></tr></table></p>         |
+![Orginal MDM group policy](../assets/img/gp-mdm-before2.png)
 
+##### Rewrite
 
+With this policy, you can prevent Mobile Device Management (MDM) enrollment for all users.   
+
+| Setting | Description |
+| ------- | ----------- |
+| Disabled or not configured **(default)** | Automatic MDM enrollment initiates. Enable MDM enrollment for all users. |
+| Enabled | Disable MDM enrollment for all users. It does not unenroll existing MDM enrollments. |

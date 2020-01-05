@@ -5,6 +5,10 @@ permalink: /about/
 
 # About
 
+The Writing Samples document library was built using Jekyll hosted on GitHub (gh-pages) and markdown for writing the content. I built this document library as a recent challenge I was given.  I have worked in markdown steadily since early 2018, but I started using markdown in 2015. 
+
+<hr />
+
 I have a vast array of writing experience as well as instructional design, visual design, video production, as well as voice over.  I wanted a way to show my writing samples in a format other than a README.md file on GitHub. Please read about my experience, skills, and training below.  
 
 If you are interested in starting a conversation with me, feel free to [pencil in some time to chat](https://calendly.com/pattishort/15min). I'm always looking for a new problem to solve. 
@@ -15,6 +19,7 @@ If you are interested in starting a conversation with me, feel free to [pencil i
 ## Patti Short  
 >Sr. Technical Writer \| UX Writer \| Visual Designer \| Voiceover Professional<br /> 
 > *I am passionate about creating content experiences that help IT Pros achieve more with technology.*
+
 
 
 ### Accomplishments         
