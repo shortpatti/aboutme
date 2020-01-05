@@ -1,5 +1,5 @@
 ---
-title: Blog Article Samples
+title: Other Writing Samples
 permalink: /news/
 ---
 
