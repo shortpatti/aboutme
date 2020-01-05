@@ -13,9 +13,9 @@ Take a look at the UX writing sample before and after versions.
 
 ## Mobile SDK Release Notes
 
->**Project:**  Work related  
->**Description:** Write simple release notes for the customer by giving them either the scenario in which the problem occurred and, most importantly, what the bug is preventing, or both.   
->**Date of rewrite:** May 21, 2019   
+>**Project:**  Work-related  
+>**Description:** Write simple release notes for the customer by giving them either the scenario in which the problem occurred and, most importantly, what the bug is preventing or both.   
+>**Date of the rewrite:** May 21, 2019   
 
 #### Original
 
@@ -33,21 +33,21 @@ The iOS Mobile Messaging SDK version 3.8 is compatible with Xcode 10.2, Swift ve
 
 - When the `unreadMessagesDividerEnabled` attribute equaled **false**, the conversation window did not jump/scroll to the latest messages received by the agent as expected.
 
-   By default, the Unread Message Divider separator appears in the message view.   When enabled, this feature does not prevent the badge or message text from displaying on the **Scroll to Bottom** button. Instead, the Unread Message Divider system message displays above the unread messages within the view of the user when returning to the conversation view. When disabled, the separator does not appear, and the unread message badge count displays on the **Scroll to Bottom** button. 
+   By default, the Unread Message Divider separator appears in the message view.   When enabled, this feature does not prevent the badge or message text from displaying on the **Scroll to Bottom** button. Instead, the Unread Message Divider system message shows above the unread messages within the view of the user when returning to the conversation view. When disabled, the separator does not appear, and the unread message badge count displays on the **Scroll to Bottom** button. 
 
 - Fallback to Signup Flow still existed. The bug prevented users from starting an authenticated conversation, and instead, the conversation started an unauthenticated visitor mode chat.
 
 - Send Image (From Gallery) failed. The bug prevented users from uploading images larger than 3MB, resulting in a ‘file too large’ message. Version 3.8 of the Mobile Messaging SDK increased the image size limit to 5MB. 
 
-- **On iOS 12.2 Swift 5**, the conversation screen did not show the sent or received messages and the margins appeared between messages. 
+- **On iOS 12.2 Swift 5**, the conversation screen did not show the sent or received messages, and the margins appeared between messages. 
 
-- Accessibility: voice over read old conversations.  The bug prevented the voice over feature, when enabled, to read the current conversation, and instead, skipping back to old conversations. 
+- Accessibility: voice over read old conversations.  The bug prevented the voice over feature, when enabled, to read the current conversation, and instead, skipping back to past conversations. 
 
 - When trying to reconnect with a JWT after the initial token expired, an INVALID JWT warning appeared and showed a black bar even though the conversation continued without error.  
 
 - Before the token expired, the agent did not receive one or more messages resulting in data loss. The bug prevented messages from being sent regardless of the token expiration.
 
-- **For iOS versions lower than 12.** When starting an unauthenticated conversation then backgrounding the app and then foregrounding it again, the loading screen remained displayed. The bug prevented users from going in and out of the conversation without issue.
+- **For iOS versions lower than 12.** When starting an unauthenticated conversation, then backgrounding the app and then foregrounding it again, the loading screen remained displayed. The bug prevented users from going in and out of the conversation without issue.
 
 ## How-To's
 
@@ -55,11 +55,11 @@ The iOS Mobile Messaging SDK version 3.8 is compatible with Xcode 10.2, Swift ve
 
 Mobile Messaging SDK v3.9 introduces a feature for agents within the app to share photos or files with the consumers.  Agents can share a reference photo or photos of any product to visually guide consumers with product awareness, steps on how to use the product, or review comments of a product.  Agents can also share files to provide consumers with information such as mortgage documents, product catalog, or transaction details as requested by consumers. Agents can even share photos or files in a resolved conversation to resume the conversation with the consumer.
 
-When the agent shares any supported file type from the LE, if the consumer isn&#39;t within the conversation view, they get a notification from the customer app only if the push notification is enabled. Otherwise, when the consumer returns to the conversation screen, a thumbnail for the photo or file appears in the conversation window.
+When the agent shares any supported file type, if the consumer isn't within the conversation view, they get a notification from the customer app only if the push notification is enabled. Otherwise, when the consumer returns, a thumbnail for the photo or file appears in the conversation window.
 
 - **Files:** the consumer can tap on it to view it full screen, share it through the default app on the device, or save it to a location on the device.
 
-   The Android SDK supports opening any file types other than images through the picker application. The consumer can either long click on the thumbnail or open the file through picker application to share and save the file.
+   The Android SDK supports opening any file types other than images through the picker application. The consumer can either long click on the thumbnail or open the file through the picker application to share and save the file.
 
    The iOS SDK supports the opening of all the supported file types on the device as per the iOS operating system.
 
@@ -84,17 +84,17 @@ When the agent shares any supported file type from the LE, if the consumer isn&#
 
 ##### Notes and limitations
 
-- Photo sharing is two way (agent-to-consumer and consumer-to-agent), but file sharing is one way only (agent to consumer).
+- Photo sharing is two way (agent-to-consumer and consumer-to-agent). Still, file sharing is one way only (agent to consumer).
 
   **For SDKs previous to 3.8:** Photo-sharing is one-way only (from consumer-to-agent, but not vice versa) and available for the Mobile Message SDK only.
 
 - If an attempt to view a photo is unsuccessful, an error icon covers the thumbnail.
 
-- If an attempt to download a file is unsuccessful, an error icon covers the thumbnail.  Upon retry, the file attempts to download again. Retry can be attempted as many times as possible (in case of a poor network) till the file is downloaded successfully.
+- If an attempt to download a file is unsuccessful, an error icon covers the thumbnail.  Upon retry, the file attempts to download again. Retry can be attempted as many times as possible (in case of a poor network) till the file download successfully.
 
 - The consumer can return to a resolved conversation to view the photos, as long as the photos are part of the conversation history.
 
-- If an agent sends an unsupported file, a message displays indicating the file type shared with the consumer is not supported, and the agent should retry sending a supported file format. On the consumer side, they see an empty message with no content.
+- If an agent sends an unsupported file, a message shows indicating the file type is not supported, and the agent should retry sending a supported file format. On the consumer side, they see an empty message with no content.
 
 - For authenticated users, backgrounding the app while loading the photo does not get interrupted.
 
@@ -110,7 +110,7 @@ When the agent shares any supported file type from the LE, if the consumer isn&#
 
    `<bool name="enable_photo_sharing">`
 
-   By default, this value is set to **false**.
+   By default, this value is **false**.
 
 2. Contact your Account Team to have the feature enabled on your account.
 
@@ -198,17 +198,18 @@ When using ViewController Mode, on the Navigation Bar Back Button, you can simpl
   - **Key:** NSCameraUsageDescription
   - **Value:**"Camera Privacy Setting for Mobile App Messaging SDK for iOS"
 
-   Values for these descriptions are up to the brand to define, these are only examples.
+   Values for these descriptions are up to the brand to define; these are only examples.
 
-3. Set the file sharing privacy settings:
+3. Set the file-sharing privacy settings:
 
   - UIFileSharingEnabled: Application supports iTunes file sharing
   - Privacy - Photo Library Usage Description
   - Privacy - Photo Library Additions Usage Description
 
-   iOS supports the preview of file types per iOS operating system and requires some configurations to be enabled ("YES") within the Host App&#39;s plist file. Enabling supports file sharing, and the export and saving of photos.
+   iOS supports the preview of file types per iOS operating system and requires some configurations to be enabled ("YES") within the Host App's plist file. Enabling supports file sharing and the export and saving of photos.
 
-4. Save documents or photos to a directory belonging to the host app, enable the following flag with **caution**.  Due to a current limitation within the  SDK, the SQL files are also made public if this setting is enabled.  Therefore, we suggest against enabling this setting until we can provide a fix in a future release.  If this functionality is important to your user flow, enable at the user&#39;s risk.
+4. Save documents or photos to a directory belonging to the host app, enable the following flag with **caution**.  
+  >**Note:** A current limitation within the SDK causes the SQL files to be public if enabling this setting. Therefore, we suggest you do not enable this setting until a fix is available in a future release.  If this functionality is essential to your user flow, enable at the user's risk.
 
    LSSupportsOpeningDocumentsInPlace: Supports opening documents in place
 
@@ -222,7 +223,7 @@ When using ViewController Mode, on the Navigation Bar Back Button, you can simpl
 
    `LPConfig.defaultConfiguration.enableFileSharing`
 
-   By default, the value is set to **true**.
+   By default, the value is **true**.
 
 2. Contact your Account Team to have the feature enabled on your account.
 
@@ -266,9 +267,9 @@ When using ViewController Mode, on the Navigation Bar Back Button, you can simpl
       You can find all the related configurations in the [resources ID table](), under Photo Sharing.
 
 ## Group Policies
->**Project:**  UX writing challenge <br>
->**Description:** Simplify, simplify, simplify.<br>
->**Date of rewrite:** January 8, 2019 <br>
+>**Project:**  UX writing challenge
+>**Description:** Simplify, simplify, simplify.
+>**Date of the rewrite:** January 8, 2019 
 
 #### Do not sync browser setting 
 
@@ -294,7 +295,7 @@ By default, the “browser” group syncs automatically between user’s devices
 
 <hr />
 
-#### Prevent enterprise websites from loading non-enterprise content...
+#### Prevent enterprise websites from loading non-enterprise content
 
 
 |Original  |Rewrite  |

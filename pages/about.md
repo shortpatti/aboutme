@@ -30,11 +30,11 @@ If you are interested in starting a conversation with me, feel free to [pencil i
  **PSCM Designs LLC**   
  Redmond, WA   
  September 2019 - present   
-
- | Project | Title | Duration | Job Description |
- | ------- | ----- | -------- | --------------- |
- | [**ZPE Systems**](https://www.zpesystems.com) | Freelance Network Content Writer (100% remote) | September 2019 - January 2020 | - Designed the eBook template for marketing campaigns.<br />- Wrote an eBook for a marketing [campaign](https://www.zpesystems.com/ebook-how-automation-is-changing-the-datacenter-landscape/) called ["How Automation is Transforming the Datacenter Landscape"](../assets/pdf/eBook-sample.pdf)<br>- Wrote video scripts, provided the voice over, and did the final video production for pre-recorded screen capture how-to videos. |
- | **WAX.io** | Contributing Technical Marketing Writer (100% remote) | July 2019 - August 2019 | Wrote a blog article called ["What is NET, CPU and RAM on the WAX Blockchain?"](https://wax.io/blog/what-is-net-cpu-and-ram-on-the-wax-blockchain). |
+ 
+ | Project | Job Description |
+ | ------- | --------------- |
+ | [**ZPE Systems**](https://www.zpesystems.com)<br />Freelance Network Content Writer<br />100% remote<br />September 2019 - January 2020 | - Designed the eBook template for marketing campaigns.<br />- Wrote an eBook for a marketing [campaign](https://www.zpesystems.com/ebook-how-automation-is-changing-the-datacenter-landscape/) called ["How Automation is Transforming the Datacenter Landscape"](../assets/pdf/eBook-sample.pdf)<br>- Wrote video scripts, provided the voice over, and did the final video production for pre-recorded screen capture how-to videos. |
+ | **WAX.io**<br />Freelance Technical Marketing Writer<br />100% remote<br />July 2019 - August 2019 | Wrote a blog article called ["What is NET, CPU and RAM on the WAX Blockchain?"](https://wax.io/blog/what-is-net-cpu-and-ram-on-the-wax-blockchain). |
 
 
 #### Technical Writer II

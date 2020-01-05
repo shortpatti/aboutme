@@ -2,7 +2,7 @@
 title: KB Article Sample
 tags: 
   - ux writing
-description: 
+description: Knowledgebase articles solve issues with products or services.  
 ---
 
 # KB Article Sample
@@ -54,4 +54,4 @@ Shipment number
 7. Select the route and click **Select.**
 8. Select the route again, and on the toolbar, click **Select**.
 
-The error should be cleared.  If not, try again or escalate to your team lead.
+If the error still appears, try again or escalate to your team lead.
