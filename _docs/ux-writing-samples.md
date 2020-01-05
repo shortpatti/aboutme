@@ -144,7 +144,7 @@ When the agent shares any supported file type, if the consumer isn't within the 
 
    `<string name="lp_accessibility_gallery">`
 
-  `<string name="lp_accessibility_camera">`
+   `<string name="lp_accessibility_camera">`
 
 5. Define the max number of stored images allowed locally.
 
@@ -191,21 +191,21 @@ When using ViewController Mode, on the Navigation Bar Back Button, you can simpl
 
 1. Set the photo library privacy settings:
   
-  - **Key:** NSPhotoLibraryUsageDescription
-  - **Value:**"Photo Library Privacy Setting for Mobile App Messaging SDK for iOS"
+   - **Key:** NSPhotoLibraryUsageDescription
+   - **Value:**"Photo Library Privacy Setting for Mobile App Messaging SDK for iOS"
 
 2. Set the camera privacy settings:
 
-  - **Key:** NSCameraUsageDescription
-  - **Value:**"Camera Privacy Setting for Mobile App Messaging SDK for iOS"
+   - **Key:** NSCameraUsageDescription
+   - **Value:**"Camera Privacy Setting for Mobile App Messaging SDK for iOS"
 
     Values for these descriptions are up to the brand to define; these are only examples.
 
 3. Set the file-sharing privacy settings:
 
-  - UIFileSharingEnabled: Application supports iTunes file sharing
-  - Privacy - Photo Library Usage Description
-  - Privacy - Photo Library Additions Usage Description
+   - UIFileSharingEnabled: Application supports iTunes file sharing
+   - Privacy - Photo Library Usage Description
+   - Privacy - Photo Library Additions Usage Description
 
     iOS supports the preview of file types per iOS operating system and requires some configurations to be enabled ("YES") within the Host App's plist file. Enabling supports file sharing and the export and saving of photos.
 
@@ -312,7 +312,7 @@ By default, non-enterprise sites open in Internet Explorer and Microsoft Edge ou
 | Disabled or not configured **(default)** | Allowed |
 | Enabled | Prevent |
 
-
+<hr />
 #### Enable automatic MDM enrollment using default Azure AD credentials
 
 ##### Original 
@@ -329,6 +329,7 @@ With this policy, you can automatically enroll a device to the Mobile Device Man
 | Disabled | Unenroll from MDM. |
 | Enabled | A task gets created to initiate MDM enrollment. |
 
+<hr />
 
 #### Disable MDM Enrollment
 
