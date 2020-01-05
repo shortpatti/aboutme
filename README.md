@@ -1,6 +1,6 @@
 # Patti Short's Writing Sample Repository
 
-I have a vast array of writing experience as well as instructional design, visual design, video production, as well as voice over.  I wanted a way to show my writing samples in a format other than a README.md file on GitHub. Please read about my experience, skills, and training below.  
+The Writing Samples document library was built using Jekyll hosted on GitHub (gh-pages) and markdown for writing the content. I built this document library as a recent challenge I was given.  I have worked in markdown steadily since early 2018, but I started using markdown in 2015. 
 
 Please take a look around at my [writing samples](https://shortpatti.github.io/aboutme/). 
 
