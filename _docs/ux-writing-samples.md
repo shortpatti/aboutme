@@ -6,7 +6,7 @@ tags:
   - group policies
   - release notes
   - how-tos 
-description: Take a look at the before and after samples.
+description: My expertise is in taking the guesswork out of complex technical content for busy IT professionals. I am passionate about creating content experiences that help IT Pros achieve more with technology. Please take a look at the before and after samples, and you be the judge.
 ---
 
 
