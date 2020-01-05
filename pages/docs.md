@@ -22,6 +22,6 @@ particular page.
 >- CMC Arthtris
 >- Herbs: Benefits and Remedies
 >- Unaweep Tabeguache Scenic Byway
->- What can I do with Rosemary?
+>- What can I do with Comfrey Leaf?
 >
 >...and more to come this year!  Keep checking back.
