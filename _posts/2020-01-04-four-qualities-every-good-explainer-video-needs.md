@@ -54,6 +54,8 @@ You can record anything and everything on your screen, but it can end up as a no
 
 - **Set up your desktop recording area and your recording software.** Do not record "full screen" because it can record at a "no-so-great" aspect ratio.   Recording at 1280x720 may seem small, but it's considered HD, plus it's the recommended size for YouTube videos.
 
+  ![16-9](../_site/assets/img/16-9-ratio.png)
+
   >**Tip!** You can make a 1280 x 720px placeholder image for your desktop and then re-size any browser or application within the white space before you
  start to record.
 
