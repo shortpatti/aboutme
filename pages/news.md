@@ -3,7 +3,7 @@ title: Other Writing Samples
 permalink: /news/
 ---
 
-# Blog Article Samples
+# Other Writing Samples
 
 <p>Subscribe with <a href="{{ site.baseurl }}/feed.xml">RSS</a> to keep up with the latest news.
 </p>
