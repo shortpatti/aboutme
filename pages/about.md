@@ -67,8 +67,8 @@ Worked with the Android and iOS development team to rewrite the SDK and API guid
  Seattle, WA and remote   
  August 2016 to May 2017  
 
-- Collaborated with developers and customers to rewrite an outdated installation/upgrade guide, reducing data loss or corruption as well as support calls.
-- 
+Collaborated with developers and customers to rewrite an outdated installation/upgrade guide, reducing data loss or corruption as well as support calls.
+
 
 
 #### Technical Writer II & MadCap Flare Conversion Specialist
