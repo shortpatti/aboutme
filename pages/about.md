@@ -141,6 +141,7 @@ Wrote provisioning procedures in an online help format for field technicians in 
  - Markdown, Confluence or other wiki platforms \| 90%
  - DITA/XML, oXygen, Arbortext \| 80%
  - Adobe Robohelp \| 75%
+ - Jekyll \| 50%
 
 #### Visual design/graphic design
 - Visual design and desktop publishing \| 95%
