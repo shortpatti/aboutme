@@ -138,10 +138,10 @@ Wrote provisioning procedures in an online help format for field technicians in 
 #### Technical writing and authoring
  - Technical and UX writing \| 100%
  - MadCap Flare (Certified expert) \| 95%
- - Markdown, Confluence or other wiki platforms \| 90%
+ - Markdown, Confluence or other wiki platforms \| 95%
  - DITA/XML, oXygen, Arbortext \| 80%
  - Adobe Robohelp \| 75%
- - Jekyll \| 50%
+
 
 #### Visual design/graphic design
 - Visual design and desktop publishing \| 95%
@@ -161,13 +161,12 @@ Wrote provisioning procedures in an online help format for field technicians in 
 
 
 #### Programming and misc. 
+- HTML5/CSS3 \| 85%
 - GitHub/Git/Git bash \| 80%
 - JIRA or other sprint-based systems \| 60%
-- Python \| 15%
-- Wordpress \| 50% 
-- HTML5/CSS3 \| 85%
+- Jekyll \| 50%
 - JavaScript \| 30%
-
+- Python \| 15%
 
 
 #### Remote, flexible work experience \| 95%
