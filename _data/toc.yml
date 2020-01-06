@@ -1,12 +1,12 @@
 - title: Documentation
   url: docs
   links:
-    - title: "UX Before/After Samples"
-      url: "docs/ux-writing-samples"
-    - title: "KB Article Samples"
-      url: "docs/kb-article-samples"
     - title: "How-to Samples"
       url: "docs/how-tos"
+    - title: "KB Article Samples"
+      url: "docs/kb-article-samples"
+    - title: "UX Before/After Samples"
+      url: "docs/ux-writing-samples"
     - title: "Other Writing Samples"
       url: "news"
     - title: Tags Page
