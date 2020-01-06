@@ -17,44 +17,6 @@ UX Writing is the production of written content that becomes part of, and suppor
 
 <hr />
 
-## Mobile SDK Release Notes
-
->**Project:**  Work-related  
->**Description:** Write simple release notes for the customer by giving them either the scenario in which the problem occurred and, most importantly, what the bug is preventing or both.   
->**Date of the rewrite:** May 21, 2019   
-
-#### Original
-
-![Original Release Notes](../assets/img/xapi-writing-sample05212019.png)
-
-
-
-#### Rewrite 
-
-The iOS Mobile SDK version 3.8 is compatible with Xcode 10.2, Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5), and supported on iOS versions 10 through 12.
-
-**Important:** The iOS Mobile SDK version 3.8 is not compatible with simulators when running in an Objective-C project.
-
-##### Bug Fixes
-
-- When the `unreadMessagesDividerEnabled` attribute equaled **false**, the conversation window did not jump/scroll to the latest messages received by the agent as expected.
-
-   By default, the Unread Message Divider separator appears in the message view.   When enabled, this feature does not prevent the badge or message text from displaying on the **Scroll to Bottom** button. Instead, the Unread Message Divider system message shows above the unread messages within the view of the user when returning to the conversation view. When disabled, the separator does not appear, and the unread message badge count displays on the **Scroll to Bottom** button. 
-
-- Fallback to Signup Flow still existed. The bug prevented users from starting an authenticated conversation, and instead, the conversation started an unauthenticated visitor mode chat.
-
-- Send Image (From Gallery) failed. The bug prevented users from uploading images larger than 3MB, resulting in a ‘file too large’ message. Version 3.8 of the Mobile SDK increased the image size limit to 5MB. 
-
-- **On iOS 12.2 Swift 5**, the conversation screen did not show the sent or received messages, and the margins appeared between messages. 
-
-- Accessibility: voice over read old conversations.  The bug prevented the voice over feature, when enabled, to read the current conversation, and instead, skipping back to past conversations. 
-
-- When trying to reconnect with a JWT after the initial token expired, an INVALID JWT warning appeared and showed a black bar even though the conversation continued without error.  
-
-- Before the token expired, the agent did not receive one or more messages resulting in data loss. The bug prevented messages from being sent regardless of the token expiration.
-
-- **For iOS versions lower than 12.** When starting an unauthenticated conversation, then backgrounding the app and then foregrounding it again, the loading screen remained displayed. The bug prevented users from going in and out of the conversation without issue.
-
 
 
 ## Group Policies
@@ -134,3 +96,43 @@ With this policy, you can prevent Mobile Device Management (MDM) enrollment for 
 | ------- | ----------- |
 | Disabled or not configured **(default)** | Automatic MDM enrollment initiates. Enable MDM enrollment for all users. |
 | Enabled | Disable MDM enrollment for all users. It does not unenroll existing MDM enrollments. |
+
+
+## Mobile SDK Release Notes
+
+>**Project:**  Work-related  
+>**Description:** Write simple release notes for the customer by giving them either the scenario in which the problem occurred and, most importantly, what the bug is preventing or both.   
+>**Date of the rewrite:** May 21, 2019   
+
+#### Original
+
+![Original Release Notes](../assets/img/xapi-writing-sample05212019.png)
+
+
+
+#### Rewrite 
+
+The iOS Mobile SDK version 3.8 is compatible with Xcode 10.2, Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5), and supported on iOS versions 10 through 12.
+
+**Important:** The iOS Mobile SDK version 3.8 is not compatible with simulators when running in an Objective-C project.
+
+##### Bug Fixes
+
+- When the `unreadMessagesDividerEnabled` attribute equaled **false**, the conversation window did not jump/scroll to the latest messages received by the agent as expected.
+
+   By default, the Unread Message Divider separator appears in the message view.   When enabled, this feature does not prevent the badge or message text from displaying on the **Scroll to Bottom** button. Instead, the Unread Message Divider system message shows above the unread messages within the view of the user when returning to the conversation view. When disabled, the separator does not appear, and the unread message badge count displays on the **Scroll to Bottom** button. 
+
+- Fallback to Signup Flow still existed. The bug prevented users from starting an authenticated conversation, and instead, the conversation started an unauthenticated visitor mode chat.
+
+- Send Image (From Gallery) failed. The bug prevented users from uploading images larger than 3MB, resulting in a ‘file too large’ message. Version 3.8 of the Mobile SDK increased the image size limit to 5MB. 
+
+- **On iOS 12.2 Swift 5**, the conversation screen did not show the sent or received messages, and the margins appeared between messages. 
+
+- Accessibility: voice over read old conversations.  The bug prevented the voice over feature, when enabled, to read the current conversation, and instead, skipping back to past conversations. 
+
+- When trying to reconnect with a JWT after the initial token expired, an INVALID JWT warning appeared and showed a black bar even though the conversation continued without error.  
+
+- Before the token expired, the agent did not receive one or more messages resulting in data loss. The bug prevented messages from being sent regardless of the token expiration.
+
+- **For iOS versions lower than 12.** When starting an unauthenticated conversation, then backgrounding the app and then foregrounding it again, the loading screen remained displayed. The bug prevented users from going in and out of the conversation without issue.
+
