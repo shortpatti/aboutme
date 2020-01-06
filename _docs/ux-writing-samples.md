@@ -1,17 +1,20 @@
 ---
-title: UX Writing Samples
+title: UX Before & After Writing Samples
 tags: 
   - ux writing
   - tech writing
   - group policies
   - release notes
-description: My expertise is in taking the guesswork out of complex technical content for busy IT professionals. I am passionate about creating content experiences that help IT Pros achieve more with technology. Please take a look at the before and after samples, and you be the judge.
+description: UX Writing is the production of written content that becomes part of, and supports, a product’s user experience. My expertise is in taking the guesswork out of complex technical content for busy IT professionals. I am passionate about creating content experiences that help IT Pros achieve more with technology. Please take a look at the before and after samples, and you be the judge.
 ---
 
 
+# UX Before & After Writing Samples
 
-# UX Writing Samples
-Take a look at the UX writing sample before and after versions.
+UX Writing is the production of written content that becomes part of, and supports, a product’s user experience. My expertise is in taking the guesswork out of complex technical content for busy IT professionals. I am passionate about creating content experiences that help IT Pros achieve more with technology. Please take a look at the before and after samples, and you be the judge.
+
+
+<hr />
 
 ## Mobile SDK Release Notes
 

@@ -9,13 +9,15 @@ description: Knowledgebase articles solve issues with products or services. Cust
 
 # KB Article Sample
 
->**Project:**  KB article   <br>
->**Description:**  Written for the support desk professionals in a manufacturing environment.  <br>
->**Date of rewrite:** January 8, 2019 <br>
+Knowledgebase articles solve issues with products or services. Customers should not be left to decipher highly technical content. Plus, they don't have the time to sift through mountains of information. My approach to writing knowledgebase articles is by focusing on a specific problem/solution and the audience. 
 
-
+<hr />
 
 #### Routing error when confirming outbound shipment
+
+>**Project:**  KB article   <br>
+>**Description:**  Written for the support desk professionals in a manufacturing environment.  <br>
+>**Date of rewrite:** January 8, 2019 
 
 ##### Root cause
 Uknown
