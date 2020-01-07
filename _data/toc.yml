@@ -3,6 +3,13 @@
   links:
     - title: "Before/After Samples"
       url: "docs/ux-writing-samples"
+      children:
+        - title: Group Policies
+          url: "docs/ux-writing-samples#group-policies"
+        - title: How-to Video Scripts
+          url: "docs/ux-writing-samples#how-to-video-scripts"
+        - title: Mobile SDK Release Notes
+          url: "docs/ux-writing-samples#mobile-sdk-release-notes"
     - title: "How-to Samples"
       url: "docs/how-tos"
     - title: "KB Article Samples"
