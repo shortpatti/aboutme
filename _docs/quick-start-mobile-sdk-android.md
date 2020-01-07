@@ -274,7 +274,7 @@ backend servers, this call fails.
       When using fragment mode, you could use the provided SDK callbacks in your app in order to implement functionalities such as menu items, action bar
 indications, agent name, and typing indicator.
 
-1. **Initialize your application.** We have provided examples to use to help
+4. **Initialize your application.** We have provided examples to use to help
     you get started. The demo account has basic features available for
     demonstrating the Conversational Commerce experience in the LiveEngage
     console.
@@ -302,24 +302,24 @@ indications, agent name, and typing indicator.
 
    - **ImplicitFlow**
 
-    ```java
-    public void startImplicitFlow(View v) {
-        String brandID = "42391995";
-        final String jwt =
-        "eyJhbGciOiJSUzI1NiJ9.eyAgInN1YiI6ICJoZWxsbyIsICAiaXNzIjogImh0dHBzOi8vTFAtQXV0aC5jb20iLCAgImV4cCI6MTU1Mzc5NDAyMSwgICJpYXQiOjE1NTM3OTM0MjF9.GP0iCe1k3aQbWHp-FYKhpfK-MZqktQ8pByTTF5lAHTelCyDAxhgHyMIq5J9mJnSoIdTlUbmscRHpy2MCop-AlYx5Sz66y1aX38AD8Rat1k_SnbPNbvbEysomb_SjxZ3uleN_OCzrSqGJrLXP6yIN2UiuuvKM62i-e-aQVIWzIXWMxjgmH9n_ZUOkgq_0jY3Me8r78dKsitc-jvzGzbasv81u40fR-7Y-ViOZliFOLjVBl2VWCbgcrGerLUyWVJQW69Hn3TlvvVpSVZk-IUU8hpYorcItIb-XNV2mOVkuZmzlGo7a1nIhJCCWzP5qaQvCCecSHTTHbcROwwE7dk6vKg";
-        pscmdesigns.initialize(this, new InitLivePersonProperties(brandID, APP_ID, new InitLivePersonCallBack() {
-            @Override
-            public void onInitSucceed() {
-                LPAuthenticationParams lpAuthenticationParams = new LPAuthenticationParams(LPAuthenticationParams.LPAuthenticationType.AUTH);
-                lpAuthenticationParams.setHostAppJWT(jwt);
-                pscmdesigns.showConversation(MainActivity.this, lpAuthenticationParams, new ConversationViewParams());
-            }
-            @Override
-            public void onInitFailed(Exception e) {
-            }
-        }));
-    }
-    ```
+       ```java
+       public void startImplicitFlow(View v) {
+       String brandID = "42391995";
+       final String jwt =
+       "eyJhbGciOiJSUzI1NiJ9.eyAgInN1YiI6ICJoZWxsbyIsICAiaXNzIjogImh0dHBzOi8vTFAtQXV0aC5jb20iLCAgImV4cCI6MTU1Mzc5NDAyMSwgICJpYXQiOjE1NTM3OTM0MjF9.GP0iCe1k3aQbWHp-FYKhpfK-MZqktQ8pByTTF5lAHTelCyDAxhgHyMIq5J9mJnSoIdTlUbmscRHpy2MCop-AlYx5Sz66y1aX38AD8Rat1k_SnbPNbvbEysomb_SjxZ3uleN_OCzrSqGJrLXP6yIN2UiuuvKM62i-e-aQVIWzIXWMxjgmH9n_ZUOkgq_0jY3Me8r78dKsitc-jvzGzbasv81u40fR-7Y-ViOZliFOLjVBl2VWCbgcrGerLUyWVJQW69Hn3TlvvVpSVZk-IUU8hpYorcItIb-XNV2mOVkuZmzlGo7a1nIhJCCWzP5qaQvCCecSHTTHbcROwwE7dk6vKg";
+       pscmdesigns.initialize(this, new InitLivePersonProperties(brandID, APP_ID, new InitLivePersonCallBack() {
+           @Override
+           public void onInitSucceed() {
+               LPAuthenticationParams lpAuthenticationParams = new LPAuthenticationParams(LPAuthenticationParams.LPAuthenticationType.AUTH);
+               lpAuthenticationParams.setHostAppJWT(jwt);
+               pscmdesigns.showConversation(MainActivity.this, lpAuthenticationParams, new ConversationViewParams());
+           }
+           @Override
+           public void onInitFailed(Exception e) {
+           }
+       }));
+       }
+       ```
 
    - **UnauthFlow**
 
