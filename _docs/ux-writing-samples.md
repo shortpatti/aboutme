@@ -21,7 +21,7 @@ I approach a before/after project with UX writing in mind, which is the producti
 
 ## Group Policies
 >**Project:**  UX writing challenge   
->**Description:** Simplify, simplify, simplify.  Here I wanted to continue what I had been doing while I was an FTE with Microsoft reworking the Mirosoft Edge Group Policies for the IT Pros. 
+>**Description:** Simplify, simplify, simplify.  Here I wanted to continue what I had been doing while I was an FTE with Microsoft reworking the Mirosoft Edge Group Policies for the IT Pros.  <br />
 >**Date of the rewrite:** January 8, 2019   
 
 #### Do not sync browser setting 
