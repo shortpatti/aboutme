@@ -125,7 +125,8 @@ You can see the MD5 checksum for all your configuration files.
 
 Now, click **Finish**.
 
-![Final video production](https://www.pscmdesigns.com/video/checksum-how-to.mp4)
+<p style="margin-bottom: 3pt;"><iframe width="100%" height="315" src="https://www.youtube.com/embed/FSEV17CUB9g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+								</p>
 
 
 #### Adding a new license
