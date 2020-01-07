@@ -28,9 +28,9 @@ The SDK provides brands with a secure way to foster connections with their custo
 
 You can install the Mobile App Messaging SDK using a couple of different methods:
 
--   *Automatically add the SDK files using Gradle*
+-   [*Automatically add the SDK files using Gradle*](#option-1-automatically-add-the-sdk-files-using-gradle)
 
--   *Manually copy the SDK files to your project*
+-   [*Manually copying the SDK files to your project*](#option-2-manually-copying-the-sdk-files-to-your-project)
 
 #### **Option 1: Automatically add the SDK files using Gradle**
 
@@ -396,10 +396,6 @@ public void startCodeFlow(View v) {
 
 {% include alert.html type="info" title="Note" content="Make sure that the init process, from the onInitSucceed callback, finished successfully." %}
 
-[Step 1: Install the Messaging SDK into your project](#step-1-install-the-messaging-sdk-into-your-project)
-[Step 2: Integrate code for basic deployment](#step-2-integrate-code-for-basic-deployment)
-[Step 3. Initialize the Messaging SDK](#step-3-initialize-the-messaging-sdk)
-[Next Steps](#next-steps)
 
 ### Next Steps
 
