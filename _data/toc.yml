@@ -4,16 +4,29 @@
     - title: "Before/After Samples"
       url: "docs/ux-writing-samples"
       children:
-        - title: Group Policies
+        - title: Group policies
           url: "docs/ux-writing-samples#group-policies"
-        - title: How-to Video Scripts
+        - title: How-to video scripts
           url: "docs/ux-writing-samples#how-to-video-scripts"
-        - title: Mobile SDK Release Notes
+        - title: Mobile SDK release notes
           url: "docs/ux-writing-samples#mobile-sdk-release-notes"
     - title: "How-to Samples"
       url: "docs/how-tos"
     - title: "KB Article Samples"
       url: "docs/kb-article-samples"
+    - title: "Quick Start Guide Samples"
+      url: "docs/quick-start-mobile-sdk-android"
+      children:
+        - title: Prerequisites
+          url: "docs/quick-start-mobile-sdk-android#prerequisites"
+        - title: Step 1. Install the SDK into your project
+          url: "docs/quick-start-mobile-sdk-android#step-1-install-the-messaging-sdk-into-your-project"
+        - title: Step 2. Integrate code for basic deployment
+          url: "docs/quick-start-mobile-sdk-android#step-2-integrate-code-for-basic-deployment"
+        - title: Step 3. Initialize the messaging SDK
+          url: "docs/quick-start-mobile-sdk-android#step-3-initialize-the-messaging-sdk"
+        - title: Next steps
+          url: "docs/quick-start-mobile-sdk-android#next-steps"
     - title: "Other Writing Samples"
       url: "news"
     - title: Tags Page
