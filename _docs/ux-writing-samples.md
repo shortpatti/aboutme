@@ -1,5 +1,5 @@
 ---
-title: UX Before & After Writing Samples
+title: Before & After Writing Samples
 tags: 
   - ux writing
   - tech writing
@@ -96,6 +96,64 @@ With this policy, you can prevent Mobile Device Management (MDM) enrollment for 
 | ------- | ----------- |
 | Disabled or not configured **(default)** | Automatic MDM enrollment initiates. Enable MDM enrollment for all users. |
 | Enabled | Disable MDM enrollment for all users. It does not unenroll existing MDM enrollments. |
+
+## How-to Video Scripts
+
+>**Project:**  Work-related<br />
+>**Description:**  I was provided with how-to videos to do the voice over, but the script needed work, and the video had no audio to reference.  So I needed to be resourceful and found the user guide, which helped. But to write a quality script, I needed to watch the video many times to add context to the actions in the video. I also did the editing and final production of both audio (in Audacity) and video (Adobe Premiere Pro).  <br />
+>**Date of project:** October/November 2019  
+
+
+#### Checksum Configuration
+
+##### Original
+The system configuration checksum is a Nodegrid feature that creates a checksum of all the configuration files to enable a quick and easy way to find out if the Nodegrid has changed. 
+To create a system configuration checksum, go to “System”, then “Toolkit”, and then “System Configuration Checksum”. The checksum can either be MD5 or SHA256. In our example, we will create a MD5 checksum by selecting “Create a checksum of the current configuration” and click “Apply”. You will then view your MD5 checksum for all the configuration files.
+
+##### Rewrite (w/final video)
+
+The system configuration checksum is a Nodegrid feature that creates a checksum of all your configuration files.  
+This gives you a quick and easy way to detect changes in the Nodegrid. 
+
+To create a system configuration checksum, go to **System>Toolkit** and then select **System Configuration Checksum**. 
+
+The checksum can either be MD5 or SHA256.
+
+But for our example, we’ll create an MD5 checksum by selecting **Create a checksum of the current configuration** and then clicking **Apply**. 
+
+You can see the MD5 checksum for all your configuration files.  
+
+Now, click **Finish**.
+
+![Final video production](https://www.pscmdesigns.com/videos/checksum-zpe-how-to.mp4)
+
+
+#### Adding a new license
+
+##### Original
+
+This short video will show you how to add a new license. Some Nodegrid features like Clustering, Docker containers… require a license for activation. To activate your license, go to System, then click on “Add” and enter your license key and then click on “Save”. 
+
+
+##### Rewrite 
+
+A license is required for each managed device for Nodegrid access and control. 
+
+The required license for each serial port of the Nodegrid is included with the product. 
+
+Some Nodegrid features, like Clustering and Docker containers require a license for activation. 
+
+At the top of the Nodegrid manager, click **System**.  
+
+Here is where all licenses enrolled in this Nodegrid displays with other information, like license key, expiration date, and application.   
+
+To add a license, click **Add**.  
+
+Enter your license key.   
+
+Now, click **Save**.   
+
+You can see the new license in the list. 
 
 
 ## Mobile SDK Release Notes
