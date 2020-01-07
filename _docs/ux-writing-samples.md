@@ -125,7 +125,7 @@ You can see the MD5 checksum for all your configuration files.
 
 Now, click **Finish**.
 
-![Final video production](https://www.pscmdesigns.com/videos/checksum-zpe-how-to.mp4)
+![Final video production](https://www.pscmdesigns.com/video/checksum-zpe-how-to.mp4)
 
 
 #### Adding a new license
