@@ -16,17 +16,7 @@
       url: "docs/kb-article-samples"
     - title: "Quick Start Guide Samples"
       url: "docs/quick-start-mobile-sdk-android"
-      children:
-        - title: Prerequisites
-          url: "docs/quick-start-mobile-sdk-android#prerequisites"
-        - title: Step 1. Install the SDK into your project
-          url: "docs/quick-start-mobile-sdk-android#step-1-install-the-messaging-sdk-into-your-project"
-        - title: Step 2. Integrate code for basic deployment
-          url: "docs/quick-start-mobile-sdk-android#step-2-integrate-code-for-basic-deployment"
-        - title: Step 3. Initialize the messaging SDK
-          url: "docs/quick-start-mobile-sdk-android#step-3-initialize-the-messaging-sdk"
-        - title: Next steps
-          url: "docs/quick-start-mobile-sdk-android#next-steps"
+
     - title: "Other Writing Samples"
       url: "news"
     - title: Tags Page
