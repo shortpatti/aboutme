@@ -8,7 +8,7 @@ description: Knowledgebase articles solve issues with products or services. Cust
 
 # KB Article Sample
 
-Knowledgebase articles solve issues with products or services. Customers should not be left to decipher highly technical content. Plus, they don't have the time to sift through mountains of information. My approach to writing knowledgebase articles is by focusing on a specific problem/solution and the audience. 
+I approach knowledge base articles with a UX approach because they solve issues with products or services. Customers should not be left to decipher highly technical content. Plus, they don't have the time to sift through mountains of information. My approach to writing knowledge base articles is by focusing on a specific problem/solution and the audience. 
 
 <hr />
 
