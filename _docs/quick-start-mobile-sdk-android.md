@@ -8,7 +8,7 @@ description: Knowledgebase articles solve issues with products or services. Cust
 
 # Quick Start Writing Sample
 
->**Project:**  Work-related <br>
+>**Project:**  Work-related - Mobile Messaging SDK <br>
 >**Description:**  I was tasked to rework the developer documentation, specifically the Mobile SDK Quick Start Guide.<br>
 >**Date of rewrite:** June 2019 
 
