@@ -5,9 +5,6 @@ permalink: /about/
 
 # About
 
-My **{{ site.title }}** document library was built using Jekyll hosted on GitHub (gh-pages) and markdown for writing the content. I built this document library as a recent challenge I was given. Plus, I wanted a way to show my writing samples in a format other than a README.md file on GitHub.
-
-<hr />
 
 I have a vast array of writing experience as well as instructional design, visual design, video production, and voice over.  My expertise is in taking the guesswork out of complex technical content for busy IT professionals. I am a self-driven Sr. Technical UX Writer with a degree and strong background in computer networking and system administration, and more than 20 years in the tech industry. Over the last ten years, I have helped organizations reduce, simplify, and restructure their content, ensuring quality and accuracy, and increasing overall customer satisfaction rates.
 
