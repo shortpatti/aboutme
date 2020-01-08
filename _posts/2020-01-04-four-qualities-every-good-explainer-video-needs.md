@@ -91,7 +91,6 @@ You can record anything and everything on your screen, but it can end up as a no
      - **Allow 5 seconds of silence at the end of the recording**. Here you want to make sure you don't cut anything off.
 
 ### 3. Utilize a voiceover professional
-
 The quality of the narration makes a big difference in the overall quality of your video. Let's face it, folks, lousy narration turns off viewers faster than almost anything else. So, the importance of a clear and articulate voice in visual content is undeniable. If you want to reach a broad audience and keep them engaged, then the narration must be excellent. Webinars and presentations can be ruined by using the wrong voice. As a result, viewers turn their attention to the voice behind the message.
 
 Getting and keeping your viewers' attention is why you need professional voiceovers. They are persuasive and give the right rhythm to your script. They train their voices for years and know how to make any communication exciting and easy to follow. Plus, they enjoy their jobs and smile, which can be heard in their voice and makes your video content more appealing. Professional voiceovers know how to control breath and rhythm so that the audience doesn't hear any disturbing pauses while listening.

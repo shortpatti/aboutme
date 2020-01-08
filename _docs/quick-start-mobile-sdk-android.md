@@ -394,7 +394,7 @@ public void startCodeFlow(View v) {
 }
 ```
 
-{% include alert.html type="info" title="Note" content="Make sure that the init process, from the onInitSucceed callback, finished successfully." %}
+{% include alert.html type="warning" title="Important" content="Make sure that the init process, from the onInitSucceed callback, finished successfully." %}
 
 
 ### Next Steps
