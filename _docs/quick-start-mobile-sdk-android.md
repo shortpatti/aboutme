@@ -24,7 +24,7 @@ The SDK provides brands with a secure way to foster connections with their custo
 
 -   Downloaded and installed the [latest version](https://gradle.org/install/) of **Gradle**.
 
-### Step 1: Install the Messaging SDK into your project
+### Step 1: Install the SDK into your project
 
 You can install the Mobile App Messaging SDK using a couple of different methods:
 
@@ -178,7 +178,7 @@ You can use Gradle, an automation tool, to scale your projects effortlessly.
     include ":messaging_sdk"
     ```
 
-### Step 2: Integrate code for basic deployment
+### Step 2: Integrate code for deployment
 
 1. Add permissions to your app’s AndroidManifest.xml file:
 
@@ -198,7 +198,7 @@ You can use Gradle, an automation tool, to scale your projects effortlessly.
     import com.pscmdesigns.messaging.sdk.api.PscmDesigns;
    ```
 
-### Step 3: Initialize the Messaging SDK
+### Step 3: Initialize the SDK
 
 Before you can show a conversation, you must initialize the Messaging SDK.
 
