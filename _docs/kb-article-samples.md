@@ -10,11 +10,75 @@ description: Knowledgebase articles solve issues with products or services. Cust
 
 I approach knowledge base articles with a UX approach because they solve issues with products or services. Customers should not be left to decipher highly technical content. Plus, they don't have the time to sift through mountains of information. My approach to writing knowledge base articles is by focusing on a specific problem/solution and the audience. 
 
+
+
 <hr />
 
-#### Routing error when confirming outbound shipment
+### XenApp: Slow logon issues
 
->**Project:**  KB article   <br>
+>**Project:**  KB article writing challenge  <br />
+>**Description:**  I like to keep up with the writing trends.  I also like to challenge myself by rewritting and reformatting KB articles.  I learned how to write technical KB articles using an Information Technology Infrastructure Library (ITIL) format for both helpdesk professionals and customer self service.<br />
+>**Original:** [How to Troubleshoot Slow Logons on XenApp](https://support.citrix.com/article/CTX101705)<br />
+>**Date of rewrite:** January 10, 2020 
+
+| Article # | Product(s) |
+| --------- | ---------- |
+| CTX101705 | - XenDesktop 7.8<br />- XenDesktop 7.7<br />- XenDesktop 7.6 FP3<br />-XenApp |
+
+{% include alert.html type="warning" title="Important" content="Make sure to log into the same server using Microsoft's RDP client instead of the Citrix Receiver. By doing this, you can determine whether the issue is a profile, logon script, network, or other user environment issue." %}
+
+
+##### Profile issues
+
+1. **For existing users**, remove any references to a profile path from the the following:
+
+   - Remote Desktop User 
+   - Profile path with in Active Directory (AD) users and computers, if applicable
+   - Computer Management
+
+   **Tip!** Create a local account directly on the Remote Desktop Server to ensure that the profile loads directly from the server. Retest the logon.   
+   
+
+2. **For new user accounts**, accounts without a local profile, and anonymous accounts need to generate a local profile upon logon. The creation of the original profile might take time. Make sure to verify if local copies of the user profiles are cached or deleted on logoff.  If so, this slows down logons if they get deleted on logoff using a Microsoft Policy. The profile rebuilding on the server each time the user logs in slows down the logon. 
+
+3. **Is Citrix User Profile Management (UPM) is being used to manage user profiles?** If so, disable the service on one server and then retest.  If the issue improves, look over your Citrix UPM policies because there might be a configuration causing the problem.  To enable UPM logging, see [CTX126723 - How to Enable and Retrieve Profile Management Log Files](). 
+
+
+
+##### Logon script issues
+
+Remove any references to a logon script within:
+   - Active Directory uses and computers
+   - Computer Management
+   - Any sore of computer or group policy.
+
+   **Tip!** Create a local account directly on the Remote Desktop Server to ensure that the profile loads directly from the server. Retest the logon.
+
+{% include alert.html type="success" title="Tip!" content="To help troubleshoot the resources in the script, comment out (REM) or input pause statements throughout each section of the logon script. " %}
+
+##### Network issues
+
+The root cause that indicate a network issue are:
+
+- The Remote Desktop Server is searching for fonts by name and not finding them.
+- A user encounters a black screen for 1 to 20 minutes before the logon completes. 
+- An application is searching for fonts (usually created by older apps). Occassonal occurance.
+
+
+##### Permissions issues
+
+
+##### General troubleshooting steps
+
+
+
+
+
+<hr />
+
+### Routing error when confirming outbound shipment
+
+>**Project:** Work-related <br>
 >**Description:**  Written for the support desk professionals in a manufacturing environment.  <br>
 >**Date of rewrite:** January 8, 2019 
 
