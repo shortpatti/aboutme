@@ -15,7 +15,7 @@
     - title: "KB Article Samples"
       url: "docs/kb-article-samples"
       children:
-        - title: XenApp: Slow logon issues
+        - title: XenApp - Slow logon issues
           url: "docs/kb-article-samples#xenapp-slow-logon-issues"
         - title: Routing error on outbound shipment
           url: "docs/kb-article-samples#routing-error-when-confirming-outbound-shipment"
