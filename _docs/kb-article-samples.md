@@ -14,7 +14,7 @@ I approach knowledge base articles with a UX approach because they solve issues 
 
 <hr />
 
-### XenApp: Slow logon issues
+### XenApp - Slow logon issues
 
 >**Project:**  KB article writing challenge  <br />
 >**Description:**  I like to keep up with the writing trends.  I also like to challenge myself by rewritting and reformatting KB articles.  I learned how to write technical KB articles using an Information Technology Infrastructure Library (ITIL) format for both helpdesk professionals and customer self service.<br />
@@ -74,7 +74,7 @@ The root cause that indicate a network issue are:
 
 <hr />
 
-### Routing error when confirming outbound shipment
+### Routing error on outbound shipment
 
 >**Project:** Work-related <br>
 >**Description:**  Written for the support desk professionals in a manufacturing environment.  <br>
