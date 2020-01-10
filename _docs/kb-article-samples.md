@@ -16,7 +16,7 @@ I approach knowledge base articles with a UX approach because they solve issues 
 
 ### XenApp - Slow logon issues
 
->**Project:**  KB article writing challenge  <br />
+>**Project:**  UX and KB writing challenge  <br />
 >**Description:**  I like to keep up with the writing trends.  I also like to challenge myself by rewritting and reformatting KB articles.  I learned how to write technical KB articles using an Information Technology Infrastructure Library (ITIL) format for both helpdesk professionals and customer self service.<br />
 >**Original:** [How to Troubleshoot Slow Logons on XenApp](https://support.citrix.com/article/CTX101705)<br />
 >**Date of rewrite:** January 10, 2020 
@@ -41,7 +41,7 @@ I approach knowledge base articles with a UX approach because they solve issues 
 
 2. **For new user accounts**, accounts without a local profile, and anonymous accounts need to generate a local profile upon logon. The creation of the original profile might take time. Make sure to verify if local copies of the user profiles are cached or deleted on logoff.  If so, this slows down logons if they get deleted on logoff using a Microsoft Policy. The profile rebuilding on the server each time the user logs in slows down the logon. 
 
-3. **Is Citrix User Profile Management (UPM) is being used to manage user profiles?** If so, disable the service on one server and then retest.  If the issue improves, look over your Citrix UPM policies because there might be a configuration causing the problem.  To enable UPM logging, see [CTX126723 - How to Enable and Retrieve Profile Management Log Files](). 
+3. **Is Citrix User Profile Management (UPM) being used to manage user profiles?** If so, disable the service on one server and then retest.  If the issue improves, look over your Citrix UPM policies because there might be a configuration causing the problem.  To enable UPM logging, see [CTX126723 - How to Enable and Retrieve Profile Management Log Files](). 
 
 
 
@@ -71,6 +71,10 @@ The root cause that indicate a network issue are:
 ##### General troubleshooting steps
 
 
+| Keywords | |
+| Author: | Patti Short |
+| Created: |  |
+| Modified | |
 
 <hr />
 
