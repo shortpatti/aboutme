@@ -58,7 +58,7 @@ Remove any references to a logon script within:
 
 ##### Network issues
 
-The root cause that indicate a network issue are:
+The root cause that indicates a network issue are:
 
 - The Remote Desktop Server is searching for fonts by name and not finding them.
 - A user encounters a black screen for 1 to 20 minutes before the logon completes. 
@@ -72,6 +72,9 @@ The root cause that indicate a network issue are:
 4. Click **Set**.
 
 ##### Permissions issues
+For the Citrix Receiver to function properly, the user requires **Full** permission on the following registry key:
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSLicensing
 
 
 ##### General troubleshooting steps
