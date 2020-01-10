@@ -76,7 +76,7 @@ The root cause that indicate a network issue are:
 
 ### Routing error on outbound shipment
 
->**Project:** Work-related <br>
+>**Project:** Work-related; self-service KB article for manufacturing<br>
 >**Description:**  Written for the support desk professionals in a manufacturing environment.  <br>
 >**Date of rewrite:** January 8, 2019 
 
