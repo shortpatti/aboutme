@@ -64,6 +64,12 @@ The root cause that indicate a network issue are:
 - A user encounters a black screen for 1 to 20 minutes before the logon completes. 
 - An application is searching for fonts (usually created by older apps). Occassonal occurance.
 
+**Steps for troubleshooting**<br />
+1. In the system *Control Panel*, click the **Environment** tab.
+2. In the *System Variables* section, click **Path**.
+3. At the bottom, in the *Value* field, add the following to the end of the string:<br />
+   `;%SystemRoot%\Fonts`
+4. Click **Set**.
 
 ##### Permissions issues
 
