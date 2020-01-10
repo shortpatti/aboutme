@@ -74,16 +74,22 @@ The root cause that indicates a network issue are:
 ##### Permissions issues
 For the Citrix Receiver to function properly, the user requires **Full** permission on the following registry key:
 
-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSLicensing
+   HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSLicensing
 
+
+{% include alert.html type="success" title="Tip!" content="Local workstation admins and power users are not affected by this issue. " %}
 
 ##### General troubleshooting steps
 
+1. Is an antivirus product running on the client device? If so, disable it and retest the connection to the XenApp server.
+2. Is there a hung process? If so, terminate the process to see if this speeds up the logon process. 
+   **Note.** If it's a third-party process, contact the vendor for assistance.
+3. Is Session Reliablity enabled? If so, disable it and see [CTX104147 - Explaining ICA Session Reliability, Common Gateway Protocol, on TCP Port 2598]() for more details. 
+4. Is this for published applications? If so, then do the following:
+   1. Investigate with the Delivery Services Console or Citrix AppCenter. 
+   2. Navigate to the *Properties* on the **Application\>Printing** section and ensure that **Start this application without waiting for printers to be created** has been set as the default.
 
-| Keywords | |
-| Author: | Patti Short |
-| Created: |  |
-| Modified | |
+
 
 <hr />
 
