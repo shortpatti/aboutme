@@ -72,8 +72,6 @@ The root cause that indicate a network issue are:
 
 
 
-
-
 <hr />
 
 ### Routing error when confirming outbound shipment
