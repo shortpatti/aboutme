@@ -23,7 +23,7 @@ I have a vast array of writing experience as well as instructional design, visua
 
 #### Visual Designer, Voiceover Professional, and Video Production Specialist
 
- **PSCM Designs LLC**   
+ **PSCM Designs**   
  Redmond, WA   
  September 2019 - present   
  
