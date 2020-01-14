@@ -17,9 +17,8 @@ Welcome to my **{{ site.title }}** document library! Here you can quickly jump t
     </div>{% endfor %}
 </div>
 
- 
 >If you're looking for more creative writing samples, go to the [Other Writing Samples](news.md) page.  I'm currently curating different types of articles ranging from:
->- CMC Joint Arthtris (Basilar Thumb Arthritis)
+>- CMC Joint Arthritis (Basilar Thumb Arthritis)
 >- Herbs: Benefits and Remedies
 >- Unaweep Tabeguache Scenic Byway
 >- What can I do with Comfrey Leaf?
