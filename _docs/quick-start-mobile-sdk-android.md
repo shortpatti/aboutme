@@ -284,7 +284,7 @@ indications, agent name, and typing indicator.
       public void startCodeFlow(View v) {
         String brandID = "62219232";
         final String authCode = "k16336";
-        pscmdesigns.initialize(this, new InitLivePersonProperties(brandID, APP_ID, new InitLivePersonCallBack() {
+        pscmdesigns.initialize(this, new InitLivePersonProperties(brandID, APP_ID, new InitPscmDesignsCallBack() {
 
             @Override
             public void onInitSucceed() {
@@ -307,7 +307,7 @@ indications, agent name, and typing indicator.
        String brandID = "42391995";
        final String jwt =
        "eyJhbGciOiJSUzI1NiJ9.eyAgInN1YiI6ICJoZWxsbyIsICAiaXNzIjogImh0dHBzOi8vTFAtQXV0aC5jb20iLCAgImV4cCI6MTU1Mzc5NDAyMSwgICJpYXQiOjE1NTM3OTM0MjF9.GP0iCe1k3aQbWHp-FYKhpfK-MZqktQ8pByTTF5lAHTelCyDAxhgHyMIq5J9mJnSoIdTlUbmscRHpy2MCop-AlYx5Sz66y1aX38AD8Rat1k_SnbPNbvbEysomb_SjxZ3uleN_OCzrSqGJrLXP6yIN2UiuuvKM62i-e-aQVIWzIXWMxjgmH9n_ZUOkgq_0jY3Me8r78dKsitc-jvzGzbasv81u40fR-7Y-ViOZliFOLjVBl2VWCbgcrGerLUyWVJQW69Hn3TlvvVpSVZk-IUU8hpYorcItIb-XNV2mOVkuZmzlGo7a1nIhJCCWzP5qaQvCCecSHTTHbcROwwE7dk6vKg";
-       pscmdesigns.initialize(this, new InitLivePersonProperties(brandID, APP_ID, new InitLivePersonCallBack() {
+       pscmdesigns.initialize(this, new InitLivePersonProperties(brandID, APP_ID, new InitPscmDesignsCallBack() {
            @Override
            public void onInitSucceed() {
                LPAuthenticationParams lpAuthenticationParams = new LPAuthenticationParams(LPAuthenticationParams.LPAuthenticationType.AUTH);
@@ -328,7 +328,7 @@ indications, agent name, and typing indicator.
            String brandID = "53949244";
            String appInstallID = "46bcf782-feee-490d-861d-2b5feb4437c8";
            final MonitoringInitParams monitoringInitParams = new MonitoringInitParams(appInstallID);
-           pscmdesigns.initialize(this, new InitLivePersonProperties(brandID, APP_ID, monitoringInitParams, new InitLivePersonCallBack() {
+           pscmdesigns.initialize(this, new InitLivePersonProperties(brandID, APP_ID, monitoringInitParams, new InitPscmDesignsCallBack() {
                @Override
                public void onInitSucceed() {
                    LPAuthenticationParams lpAuthenticationParams = new LPAuthenticationParams(LPAuthenticationParams.LPAuthenticationType.UN_AUTH);
@@ -346,7 +346,7 @@ indications, agent name, and typing indicator.
        ```java
        public void startSignupFlow(View v) {
            String brandID = "62219232";
-           pscmdesigns.initialize(this, new InitLivePersonProperties(brandID, APP_ID, new InitLivePersonCallBack() {
+           pscmdesigns.initialize(this, new InitLivePersonProperties(brandID, APP_ID, new InitPscmDesignsCallBack() {
                @Override
                public void onInitSucceed() {
                    LPAuthenticationParams lpAuthenticationParams = new LPAuthenticationParams(LPAuthenticationParams.LPAuthenticationType.SIGN_UP);
@@ -380,7 +380,7 @@ protected void onCreate(Bundle savedInstanceState) {
 public void startCodeFlow(View v) {
     String brandID = "62219232";
     final String authCode = "k16336";
-    pscmdesigns.initialize(this, new InitLivePersonProperties(brandID, APP_ID, new InitLivePersonCallBack() {
+    pscmdesigns.initialize(this, new InitLivePersonProperties(brandID, APP_ID, new InitPscmDesignsCallBack() {
         @Override
             public void onInitSucceed() {
                 LPAuthenticationParams lpAuthenticationParams = new LPAuthenticationParams(LPAuthenticationParams.LPAuthenticationType.AUTH);
