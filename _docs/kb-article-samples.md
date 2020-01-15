@@ -48,14 +48,14 @@ I approach knowledge base articles with a UX approach because they solve issues 
 
 ##### Logon script issues
 
-Remove any references to a logon script within:
+1. Remove any references to a logon script within:
    - Active Directory uses and computers
    - Computer Management
    - Any sore of computer or group policy.
 
-   **Tip!** Create a local account directly on the Remote Desktop Server to ensure that the profile loads directly from the server. Retest the logon.
+2. Create a local account directly on the Remote Desktop Server to ensure that the profile loads directly from the server. Retest the logon.
 
-{% include alert.html type="success" title="Tip!" content="To help troubleshoot the resources in the script, comment out (REM) or input pause statements throughout each section of the logon script. " %}
+{% include alert.html type="success" title="Tips!" content="To help troubleshoot the resources in the script, comment out (REM) or input pause statements throughout each section of the logon script. " %}
 
 ##### Network issues
 
