@@ -6,8 +6,8 @@
       children:
         - title: Group policies
           url: "docs/ux-writing-samples#group-policies"
-#        - title: How-to video scripts
-#          url: "docs/ux-writing-samples#how-to-video-scripts"
+        - title: How-to video scripts
+          url: "docs/ux-writing-samples#how-to-video-scripts"
         - title: Mobile SDK release notes
           url: "docs/ux-writing-samples#mobile-sdk-release-notes"
     - title: "How-to Samples"
