@@ -100,7 +100,7 @@ With this policy, you can prevent Mobile Device Management (MDM) enrollment for 
 ## How-to Video Scripts
 
 >**Project:**  Work-related<br />
->**Description:**  I was provided with how-to videos to do the voice over, but the script needed work, and the video had no audio to reference.  So I needed to be resourceful and found the user guide, which helped. But to write a quality script, I needed to watch the video many times to add context to the actions in the video. I also did the editing and final production of both audio (in Audacity) and video (Adobe Premiere Pro).  <br />
+>**Description:**  I was provided with how-to videos to do the voice over, but some of the scripts needed work, and the video had no audio to reference.  So I needed to be resourceful, so I found the user guide, which helped. But to write a quality script, I needed to watch the video many times to add context to the actions in the video. I also did the editing and final production of both audio (in Audacity) and video (Adobe Premiere Pro).  <br />
 >**Date of project:** October/November 2019  
 
 
