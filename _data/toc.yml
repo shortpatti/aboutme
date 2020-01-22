@@ -23,6 +23,8 @@
       url: "docs/quick-start-mobile-sdk-android"
     - title: "Other Writing Samples"
       url: "news"
+    - title: "Information Architect Samples"
+      url: "docs/info-architect"
     - title: Tags Page
       url: "tags"
 
