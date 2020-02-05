@@ -10,7 +10,7 @@ I have a vast array of writing experience as well as instructional design, visua
 
 ## Patti Short  
 >Sr. Technical Writer \| UX Writer \| Visual Designer \| Voiceover Professional<br /> 
-> *I am passionate about creating content experiences that help IT Pros achieve more with technology.*
+> *I am passionate about creating content experiences that help IT Pros achieve more with the technology they use.*
 
 
 ### Accomplishments         
