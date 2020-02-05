@@ -34,7 +34,7 @@ github_repo: "aboutme"
 # Optional
 twitter: pattiannshort
 linkedin: pattishort
-# dockerhub: vanessa
+
 
 # Should there be feedback buttons at the bottom of pages?
 feedback: true
@@ -60,7 +60,7 @@ tag_color: primary # danger, success, warning, primary, info, secondary
 
 accentColor: red # purple, green, etc.
 themeColor: red # purple, green, blue, orange, purple, grey
-fixedNav: 'true' # true or false
+fixedNav: 'false' # true or false
 
 permalink: /:year/:title/
 markdown: kramdown
