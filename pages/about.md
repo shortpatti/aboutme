@@ -17,7 +17,7 @@ I have a vast array of writing experience as well as instructional design, visua
 
 - Streamlined a weekly team status report for the Amazon executive team, reducing the time to compile and deliver the report by ~4 hours (more than half).
 - Rewrote a decades-old installation/upgrade guide for the GE Healthcare customers and support team, reducing the time to install/upgrade, data loss or corruption, and support calls.
-- Built a _**custom**_ authoring environment in MadCap Flare and converted legacy content for several large corporations maximizing content reuse and reducing the cost of creating, managing, and publishing content.
+- Built a _**custom**_ authoring environment in MadCap Flare and converted legacy content for several large corporations to maximize content reuse and to reduce the cost of creating, managing, and publishing content.
 
 ### Work Experience
 
