@@ -22,9 +22,9 @@ I have a vast array of writing experience as well as instructional design, visua
 ### Work Experience
 
 #### Technical Writer
-**Netdata.cloud**
-Remote
-February 2020 - present
+**Netdata.cloud**   
+Remote   
+February 2020 - present   
 
 
 
