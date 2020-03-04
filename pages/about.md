@@ -21,11 +21,17 @@ I have a vast array of writing experience as well as instructional design, visua
 
 ### Work Experience
 
-#### Visual Designer, Voiceover Professional, and Video Production Specialist
+#### Technical Writer
+**Netdata.cloud**
+Remote
+February 2020 - present
 
- **PSCM Designs**   
+
+
+#### Freelance Technical Writer, Voiceover Professional, and Video Production Specialist
+   
  Redmond, WA   
- September 2019 - present   
+ September 2019 - 2019   
  
  | Project | Job Description |
  | ------- | --------------- |
