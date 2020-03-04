@@ -28,7 +28,7 @@ February 2020 - present
 
 
 
-#### Freelance Technical Writer, Voiceover Professional, and Video Production Specialist
+#### Freelance Technical Writer and Voiceover Professional
    
  Redmond, WA   
  September 2019 - 2019   
