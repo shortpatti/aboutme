@@ -68,7 +68,7 @@ When the agent shares any supported file type, if the consumer isn't within the 
 
 **For Android SDK 3.0 on an Oreo Device (8.0 &amp; 8.1).** Add support for Notification Channel.
 
-##### Step 1. Enable or disable
+##### Step 1. Enable or disable photo sharing
 
 1. Change the boolean value:
 
