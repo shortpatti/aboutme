@@ -78,7 +78,7 @@ When the agent shares any supported file type, if the consumer isn't within the 
 
 2. Contact your Account Team to have the feature enabled on your account.
 
-##### Step 2. Change settings
+##### Step 2. Change the settings
 
 1. Set the max number of photos or files to save on disk:
 
