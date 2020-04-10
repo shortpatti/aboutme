@@ -74,9 +74,9 @@ You can record anything and everything on your screen, but it can end up as a no
 
      - **Watch your mouse cursor.** You'll use it to show the viewer where to follow along with while you explain things. It's essential, so make sure you make it as useful as possible.
 
-       - **Don't circle things.** Moving your mouse around and around as if you're talking with your hands will leave your viewers confused and unsure of where they should look. Instead, move it deliberately and with purpose.
+       - **Don't circle things.** Moving your mouse around and around as if you're talking with your hands leaves your viewers confused and unsure of where they should look. Instead, move it deliberately and with purpose.
 
-       - **Don't move it at the speed of light.** If you're moving your mouse across the screen too fast, your audience will struggle to follow along, and, ultimately, will stop watching.
+       - **Don't move it at the speed of light.** If you're moving your mouse across the screen too fast, your audience struggles to follow along, and, ultimately, stops watching.
 
        - **If you can, try to cut out mistakes and unneeded content**. Mistakes happen to the best of us. You'll be recording, and your mouse moves to the wrong place, you click the wrong thing, or something unexpected happens. It's okay – it's fixable.
 
@@ -95,7 +95,7 @@ The quality of the narration makes a big difference in the overall quality of yo
 
 Getting and keeping your viewers' attention is why you need professional voiceovers. They are persuasive and give the right rhythm to your script. They train their voices for years and know how to make any communication exciting and easy to follow. Plus, they enjoy their jobs and smile, which can be heard in their voice and makes your video content more appealing. Professional voiceovers know how to control breath and rhythm so that the audience doesn't hear any disturbing pauses while listening.
 
-Without the right voice to match the tone of the video, an otherwise exceptional video is dead. Hire a professional whose sound will resonate with your audience. Find someone who specializes in the genre. You'd be surprised how many voiceover professionals specialize in a particular genre, such as technical or medical content. Professional voiceover is excellent, and (if you have the budget), bringing one in-house to record is always the best approach.
+Without the right voice to match the tone of the video, an otherwise exceptional video is dead. Hire a professional whose sound resonates with your audience. Find someone who specializes in the genre. You'd be surprised how many voiceover professionals specialize in a particular genre, such as technical or medical content. Professional voiceover is excellent, and (if you have the budget), bringing one in-house to record is always the best approach.
 
 Your videos say a lot about your company and the way you do business. And people tend to associate the quality of your content with the quality of your products or services.
 
