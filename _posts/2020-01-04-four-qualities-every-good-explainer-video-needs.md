@@ -12,15 +12,15 @@ badges:
    tag: voiceover
 ---
 
-Let’s face it, everyone likes learning something new. Your audience is a curious bunch, no matter who they are, which is why how-to/explainer videos are perfect for any target audience. These videos are short, engaging breakdowns of broader concepts or tasks. They are also one of the most effective ways to quickly show viewers a big idea or how to do something. How-to/explainer videos must be easy to consume, and to achieve this, the information delivered must be clear.
+Let's face it, everyone likes learning something new. Your audience is a curious bunch, no matter who they are, which is why how-to/explainer videos are perfect for any target audience. These videos are short, engaging breakdowns of broader concepts or tasks. They are also one of the most effective ways to quickly show viewers a big idea or how to do something. How-to/explainer videos must be easy to consume, and to achieve this, the information delivered must be clear.
 
 <!--more-->
 
-A well-produced video can undoubtedly enhance the experience for your viewers, but a well-produced video takes planning to meet a high standard of quality and clarity. Many people begin without knowing where to start or realizing the extent of the work involved. Video production is not a simple matter of recording and pressing play when you’re done. It takes several hours to make a few minutes of high-quality video. A few tasks in creating a well-produced vide include planning, script writing, recording the video, recording and editing the voiceover, and rendering. 
+A well-produced video can undoubtedly enhance the experience for your viewers, but a well-produced video takes planning to meet a high standard of quality and clarity. Many people begin without knowing where to start or realizing the extent of the work involved. Video production is not a simple matter of recording and pressing play when you're done. It takes several hours to make a few minutes of high-quality video. A few tasks in creating a well-produced vide include planning, script writing, recording the video, recording and editing the voiceover, and rendering. 
 
 ## What qualities make a great how-to video?
 
-As you read this article, think about your own experience as a viewer. What did you find helpful and not so helpful about the video? Was the message clear, did it flow and stick to the intended message, and did it keep you engaged throughout?  Most importantly, did you get what you needed out of the video or did it waste your time and you didn’t get much out of it?  
+As you read this article, think about your own experience as a viewer. What did you find helpful and not so helpful about the video? Was the message clear, did it flow and stick to the intended message, and did it keep you engaged throughout?  Most importantly, did you get what you needed out of the video or did it waste your time and you didn't get much out of it?  
 
 The following four qualities give you some guidance from planning to writing a solid script to recording your video and selecting a voiceover professional. 
 
@@ -52,7 +52,7 @@ If you have a world-class product, a weak script sabotages your video, making it
 
 You can record anything and everything on your screen, but it can end up as a not-so-great viewing experience. We get that not everyone uses the same  recording software, but here are a few things to ensure consistency for the best recording quality and viewing experience:
 
-- **Set up your desktop recording area and your recording software.** Do not record "full screen" because it can record at a "no-so-great" aspect ratio.   Recording at 1280x720 may seem small, but it's considered HD, plus it's the recommended size for YouTube videos.
+- **Set up your desktop recording area and your recording software.** Do not record "full screen" because it can record at a "not-so-great" aspect ratio.   Recording at 1280x720 may seem small, but it's considered HD, plus it's the recommended size for YouTube videos.
 
   ![16:9 ratio](https://www.pscmdesigns.com/images/16-9-ratio.png) 
 
@@ -109,9 +109,9 @@ People need a prompt, even if it's as simple as a nudge to visit the website or 
 
 ## Final thoughts
 
-It’s all about balance:
->>*Explain; don’t lecture.*<br />
->>*Engage; don’t bore.*<br />
->>*Enchant; don’t demand.*
+It's all about balance:
+>>*Explain; don't lecture.*<br />
+>>*Engage; don't bore.*<br />
+>>*Enchant; don't demand.*
 
 
