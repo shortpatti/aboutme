@@ -6,13 +6,13 @@ tags:
   - group policies
   - release notes
   - before/after
-description: UX Writing is the production of written content that becomes part of, and supports, a product’s user experience. My expertise is in taking the guesswork out of complex technical content for busy IT professionals. I am passionate about creating content experiences that help IT Pros achieve more with technology. Please take a look at the before and after samples, and you be the judge.
+description: UX Writing is the production of written content that becomes part of, and supports, a product's user experience. My expertise is in taking the guesswork out of complex technical content for busy IT professionals. I am passionate about creating content experiences that help IT Pros achieve more with technology. Please take a look at the before and after samples, and you be the judge.
 ---
 
 
 # Before & After Writing Samples
 
-I approach a before/after project with UX writing in mind, which is the production of written content that becomes part of, and supports, a product’s user experience. My expertise is in taking the guesswork out of complex technical content for busy IT professionals. I am passionate about creating content experiences that help IT Pros achieve more with technology. Please take a look at the before and after samples, and you be the judge.
+I approach a before/after project with UX writing in mind, which is the production of written content that becomes part of, and supports, a product's user experience. My expertise is in taking the guesswork out of complex technical content for busy IT professionals. I am passionate about creating content experiences that help IT Pros achieve more with technology. Please take a look at the before and after samples, and you be the judge.
 
 
 <hr />
@@ -37,7 +37,7 @@ If you do not set or disable this setting, syncing of the "browser" group is on 
 
 ##### Rewrite 
 
-By default, the “browser” group syncs automatically between user’s devices allowing users to make changes. The “browser” group uses the Sync your Settings option in Settings to sync information such as history and favorites.
+By default, the "browser" group syncs automatically between user's devices allowing users to make changes. The "browser" group uses the Sync your Settings option in Settings to sync information such as history and favorites.
 
 | Setting | Description |
 | ------- | ----------- |
@@ -100,7 +100,7 @@ With this policy, you can prevent Mobile Device Management (MDM) enrollment for 
 ## How-to Video Scripts
 
 >**Project:**  Work-related<br />
->**Description:**  I was provided with how-to videos to do the voice over, but some of the scripts needed work, and the video had no audio to reference.  So I needed to be resourceful, so I found the user guide, which helped. But to write a quality script, I needed to watch the video many times to add context to the actions in the video. I also did the editing and final production of both audio (in Audacity) and video (Adobe Premiere Pro).  <br />
+>**Description:**  I was provided with pre-recorded how-to videos with scripts to do the voice over, but some of the scripts needed work, and the video had no audio to reference.  I needed to be resourceful, so I found the user guide, which helped, but to write a quality script, I needed to watch the video many times to add context to the actions in the video. I also did the editing and final production of both audio (in Audacity) and video (Adobe Premiere Pro).  <br />
 >**Date of project:** October/November 2019  
 
 
@@ -108,7 +108,7 @@ With this policy, you can prevent Mobile Device Management (MDM) enrollment for 
 
 ##### Original
 The system configuration checksum is a Nodegrid feature that creates a checksum of all the configuration files to enable a quick and easy way to find out if the Nodegrid has changed. 
-To create a system configuration checksum, go to “System”, then “Toolkit”, and then “System Configuration Checksum”. The checksum can either be MD5 or SHA256. In our example, we will create a MD5 checksum by selecting “Create a checksum of the current configuration” and click “Apply”. You will then view your MD5 checksum for all the configuration files.
+To create a system configuration checksum, go to "System", then "Toolkit", and then "System Configuration Checksum". The checksum can either be MD5 or SHA256. In our example, we will create a MD5 checksum by selecting "Create a checksum of the current configuration" and click "Apply". You will then view your MD5 checksum for all the configuration files.
 
 ##### Rewrite (w/final video)
 
@@ -119,21 +119,21 @@ To create a system configuration checksum, go to **System>Toolkit** and then sel
 
 The checksum can either be MD5 or SHA256.
 
-But for our example, we’ll create an MD5 checksum by selecting **Create a checksum of the current configuration** and then clicking **Apply**. 
+But for our example, we'll create an MD5 checksum by selecting **Create a checksum of the current configuration** and then clicking **Apply**. 
 
 You can see the MD5 checksum for all your configuration files.  
 
 Now, click **Finish**.
 
 <p style="margin-bottom: 3pt;"><iframe width="100%" height="315" src="https://www.youtube.com/embed/FSEV17CUB9g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-								</p>
+                                </p>
 
 
 #### Adding a new license
 
 ##### Original
 
-This short video will show you how to add a new license. Some Nodegrid features like Clustering, Docker containers… require a license for activation. To activate your license, go to System, then click on “Add” and enter your license key and then click on “Save”. 
+This short video will show you how to add a new license. Some Nodegrid features like Clustering, Docker containers… require a license for activation. To activate your license, go to System, then click on "Add" and enter your license key and then click on "Save". 
 
 
 ##### Rewrite 
@@ -183,7 +183,7 @@ The iOS Mobile SDK version 3.8 is compatible with Xcode 10.2, Swift version 5.0.
 
 - Fallback to Signup Flow still existed. The bug prevented users from starting an authenticated conversation, and instead, the conversation started an unauthenticated visitor mode chat.
 
-- Send Image (From Gallery) failed. The bug prevented users from uploading images larger than 3MB, resulting in a ‘file too large’ message. Version 3.8 of the Mobile SDK increased the image size limit to 5MB. 
+- Send Image (From Gallery) failed. The bug prevented users from uploading images larger than 3MB, resulting in a 'file too large' message. Version 3.8 of the Mobile SDK increased the image size limit to 5MB. 
 
 - **On iOS 12.2 Swift 5**, the conversation screen did not show the sent or received messages, and the margins appeared between messages. 
 
