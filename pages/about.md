@@ -20,37 +20,29 @@ I have a vast array of writing experience as well as instructional design, visua
 - Built a _**custom**_ authoring environment in MadCap Flare and converted legacy content for several large corporations to maximize content reuse and to reduce the cost of creating, managing, and publishing content.
 
 ### Work Experience
-
-#### Technical Writer
-**Netdata.cloud**   
-Remote   
-February 2020 - present   
-
-Write product documentation for an open-source, real-time Linux server performance monitoring tool that monitors CPU, RAM usage, disk I/O, network traffic, Postfix, among many others.
-
 #### Freelance Technical Writer and Voiceover Professional
-   
- Redmond, WA   
- September 2019 - 2019   
- 
- | Project | Job Description |
- | ------- | --------------- |
- | [**ZPE Systems**](https://www.zpesystems.com)<br />Freelance Network Content Writer<br />100% remote<br />September 2019 - January 2020 | - Wrote an eBook for a marketing [campaign](https://www.zpesystems.com/ebook-how-automation-is-changing-the-datacenter-landscape/) called "How Automation is Transforming the Datacenter Landscape"<br>- Wrote video scripts, provided the voice over, and did the final video production for pre-recorded screen capture how-to videos. |
- | [**WAX.io**](https://wax.io/)<br />Freelance Technical Marketing Writer<br />100% remote<br />July 2019 - August 2019 | Wrote a blog article called ["What is NET, CPU and RAM on the WAX Blockchain?"](https://wax.io/blog/what-is-net-cpu-and-ram-on-the-wax-blockchain). |
+Remote
+September 2019 - Present  
+
+| Project | Job Description |
+| ------- | --------------- |
+| [**Netdata**](https://www.netdata.cloud)<br />Technical Writer<br />100% remote<br />February 2020 - April 2020 | Wrote product documentation for their open-source, real-time Linux server performance monitoring solution. |
+| [**ZPE Systems**](https://www.zpesystems.com)<br />Freelance Network Content Writer<br />100% remote<br />September 2019 - January 2020 | - Wrote an eBook for a marketing [campaign](https://www.zpesystems.com/ebook-how-automation-is-changing-the-datacenter-landscape/) called "How Automation is Transforming the Datacenter Landscape"<br>- Wrote video scripts, provided the voice over, and did the final video production for pre-recorded screen capture how-to videos. |
+| [**WAX.io**](https://wax.io/)<br />Freelance Technical Marketing Writer<br />100% remote<br />July 2019 - August 2019 | Wrote a blog article called ["What is NET, CPU and RAM on the WAX Blockchain?"](https://wax.io/blog/what-is-net-cpu-and-ram-on-the-wax-blockchain). |
 
 
 #### Technical Writer II
 
- **LivePerson**    
- Seattle, WA and remote   
- March 2019 - June 2019   
+**LivePerson**    
+Seattle, WA and remote   
+March 2019 - June 2019   
 
 Worked with the Android and iOS development team to rewrite the SDK and API guides for mobile messaging.
 
 #### Technical Writer II  
- **Microsoft**    
- Redmond, WA and remote    
- January 2018 to January 2019
+**Microsoft**    
+Redmond, WA and remote    
+January 2018 to January 2019
 
 - Worked with the Microsoft Edge development team to rewrite the Microsoft Edge Enterprise Deployment Guide. 
 - Worked with the networking team to update the Always On VPN and other networking content.
