@@ -5,7 +5,6 @@ permalink: /about/
 
 # About
 
-
 I have a vast array of writing experience as well as instructional design, visual design, video production, and voice over.  My expertise is in taking the guesswork out of complex technical content for busy IT professionals. I am a self-driven Sr. Technical UX Writer with a degree and strong background in computer networking and system administration, and more than 20 years in the tech industry. Over the last ten years, I have helped organizations reduce, simplify, and restructure their content, ensuring quality and accuracy, and increasing overall customer satisfaction rates.
 
 ## Patti Short  
@@ -22,7 +21,7 @@ I have a vast array of writing experience as well as instructional design, visua
 ### Work Experience
 #### Freelance Technical Writer and Voiceover Professional
 Remote
-September 2019 - Present  
+July 2019 - Present  
 
 | Project | Job Description |
 | ------- | --------------- |
