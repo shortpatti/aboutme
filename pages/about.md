@@ -175,7 +175,7 @@ Wrote provisioning procedures in an online help format for field technicians in 
 - Troubleshooting
 - Growth mindset
 - Comfortable with digital communication
-    - Video conferencing: Skype, Google Hangouts, Zoom
+    - Video conferencing: Skype, Google Hangouts, Zoom, Slack
     - Instant messaging: Skype, Slack, Google Chat
     - File sharing: Google Drive, Box, Dropbox, OneDrive
 
