@@ -11,6 +11,12 @@ I have a vast array of writing experience as well as instructional design, visua
 >Sr. Technical Writer \| UX/UI Writer \| Visual Designer \| Voiceover Professional<br /> 
 > *I am passionate about creating content experiences that help IT Pros achieve more with the technology they use.*
 
+- [Accomplishments](#accomplishments)
+- [Work Experience](#work-experience)
+- [Skills](#skills)
+- [Training and education](#training-and-education)
+
+
 
 ### Accomplishments         
 
@@ -129,7 +135,7 @@ Wrote provisioning procedures in an online help format for field technicians in 
 
 ### Skills
 
-##### Technical writing and authoring
+#### Technical writing and authoring
  - Technical and UX writing \| 100%
  - MadCap Flare (Certified expert) \| 95%
  - Markdown, Confluence or other wiki platforms \| 95%
@@ -137,24 +143,24 @@ Wrote provisioning procedures in an online help format for field technicians in 
  - Adobe Robohelp \| 75%
 
 
-##### Visual design/graphic design
+#### Visual design/graphic design
 - Visual design and desktop publishing \| 95%
 - Adobe Creative Cloud (Photoshop, InDesign, Illustrator) \| 90%
 
-##### Video production
+#### Video production
 - Adobe Premiere Pro \| 50% 
   
-##### Voice over and audio editing
+#### Voice over and audio editing
 - Audacity \| 75%
 - Adobe Audition \| 30%
 
 
-##### Instructional design and curriculum writing
+#### Instructional design and curriculum writing
 - Curriculum writing \| 75%
 - Adobe Captivate \| 75% 
 
 
-##### Programming and misc. 
+#### Programming and misc. 
 - HTML5/CSS3 \| 85%
 - GitHub/Git/Git bash \| 80%
 - JIRA or other sprint-based systems \| 60%
@@ -163,7 +169,7 @@ Wrote provisioning procedures in an online help format for field technicians in 
 - Python \| 15%
 
 
-##### Remote, flexible work experience \| 95%
+#### Remote, flexible work experience \| 95%
 - Focus and time management
 - Proactive communication
 - Troubleshooting
@@ -176,19 +182,19 @@ Wrote provisioning procedures in an online help format for field technicians in 
 
 ### Training and education
 
-##### Voice over acting  
+#### Voice over acting  
  Such A Voice - Remote   
  Coach: [Jan Haley-Soule](https://www.imdb.com/name/nm1695988/)   
  March 2019 - present
 
-###### Niche: 
+##### Niche: 
    - Technical (computer networking, software, cloud storage)
    - Corporate (presentations, training, e-learning)
    - Narration (informational, textbooks)
    - Medical (hand/wrist anatomy and health conditions, environmental health, public health)
    - Commercials   
 
-###### Voice traits:  
+##### Voice traits:  
    - Confident
    - Educated
    - Intelligent
@@ -199,11 +205,11 @@ Wrote provisioning procedures in an online help format for field technicians in 
    - Sultry/playful  
 
 
-##### Bachelor's in Health Science \| Environmental Health  
+#### Bachelor's in Health Science \| Environmental Health  
  Kaplan University - Remote   
  October 2010 to May 2012  \[*Incomplete - shy 6 credits*\]
 
-##### Associate's of Applied Science \| Computer Science and Information Technology**  
+#### Associate's of Applied Science \| Computer Science and Information Technology**  
  Denver Technical College, a division of DeVry University - Denver, CO   
  February 1999 to April 2001  
 
