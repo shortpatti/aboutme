@@ -185,7 +185,7 @@ Wrote provisioning procedures in an online help format for field technicians in 
 #### Voice over acting  
  Such A Voice - Remote   
  Coach: [Jan Haley-Soule](https://www.imdb.com/name/nm1695988/)   
- March 2019 - present
+ March 2019 - March 2020
 
 ##### Niche: 
    - Technical (computer networking, software, cloud storage)
