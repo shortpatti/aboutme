@@ -208,7 +208,7 @@ March 2019 - March 2020
 
 #### Bachelor's in Health Science \| Environmental Health 
 Kaplan University - Remote <br />
-October 2010 to May 2012 \[*Incomplete - shy 6 credits*\]
+October 2010 to May 2012   
 
 #### Associate's of Applied Science \| Computer Science and Information Technology
 Denver Technical College, a division of DeVry University - Denver, CO <br />
