@@ -210,6 +210,6 @@ March 2019 - March 2020
 Kaplan University - Remote <br />
 October 2010 to May 2012 \[*Incomplete - shy 6 credits*\]
 
-#### Associate's of Applied Science \| Computer Science and Information Technology** 
+#### Associate's of Applied Science \| Computer Science and Information Technology
 Denver Technical College, a division of DeVry University - Denver, CO <br />
 February 1999 to April 2001 
