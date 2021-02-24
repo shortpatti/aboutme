@@ -39,8 +39,8 @@ July 2019 - Present
 
 #### Contract Technical Writer 
 
-**Microsoft**
-100% remote 
+**Microsoft**<br /> 
+100% remote <br /> 
 May 2020 - Present 
 
 Azure Dedicated technical writing working on the [Azure VMware Solution](https://docs.microsoft.com/en-us/azure/azure-vmware/introduction) and [BareMetal Infrastructure](https://docs.microsoft.com/en-us/azure/baremetal-infrastructure/workloads/sap/baremetal-overview-architecture) (SAP and Oracle) services.
@@ -48,16 +48,16 @@ Azure Dedicated technical writing working on the [Azure VMware Solution](https:/
 
 #### Technical Writer II
 
-**LivePerson** 
-Seattle, WA and remote 
+**LivePerson** <br /> 
+Seattle, WA and remote <br /> 
 March 2019 - June 2019 
 
 Worked with the Android and iOS development team to rewrite the SDK and API guides for mobile messaging.
 
 
 #### Technical Writer II 
-**Microsoft** 
-Redmond, WA and remote 
+**Microsoft** <br /> 
+Redmond, WA and remote <br /> 
 January 2018 to January 2019
 
 - Worked with the Microsoft Edge development team to rewrite the [Microsoft Edge (Legacy) deployment group policies](https://docs.microsoft.com/en-us/microsoft-edge/deploy/available-policies). 
@@ -65,8 +65,8 @@ January 2018 to January 2019
 
 
 #### Contract Research Librarian &amp; Technical Writer 
-**Oculus VR, *a Facebook company*** 
-Redmond, WA 
+**Oculus VR, *a Facebook company*** <br /> 
+Redmond, WA <br /> 
 July 2017 to December 2017 
 
 - Developed cross-functional workflows and process documentation for the Mechanical and Electrical Engineers in a Virtual Reality R&D environment. 
@@ -74,24 +74,24 @@ July 2017 to December 2017
 
 
 #### Software Technical Writer & MadCap Flare Conversion Specialist
-**GE Healthcare** 
-Seattle, WA and remote 
+**GE Healthcare** <br /> 
+Seattle, WA and remote <br /> 
 August 2016 to May 2017 
 
 Collaborated with developers and customers to rewrite an outdated installation/upgrade guide, reducing data loss or corruption as well as support calls.
 
 
 #### Technical Writer II & MadCap Flare Conversion Specialist
-**Amazon** 
-Seattle, WA and remote 
+**Amazon** <br /> 
+Seattle, WA and remote <br /> 
 September 2015 to July 2016 
 
 Wrote feature announcements and task-oriented guides for the employees at the Amazon Fulfillment Centers (FCs). 
 
 
 #### Contract Technical Writer &amp; System Admin 
-**Charter Communications** 
-Greenwood Village, CO 
+**Charter Communications** <br /> 
+Greenwood Village, CO <br /> 
 March 2015 to September 2015 
 
 - Collaborated with principle video-on-demand (VOD) and network engineers on Method of Procedures documentation.
@@ -99,15 +99,15 @@ March 2015 to September 2015
 
 
 #### MadCap Flare Conversion Specialist 
-Superior, CO 
+Superior, CO <br /> 
 October 2014 to December 2014 
 
 Trained technical writers and instructional designers to use and customize MadCap Flare.
 
 
 #### Technical Writer & MadCap Flare Conversion Specialist
-**SolidFire, *a NetApp company*** 
-Boulder, CO 
+**SolidFire, *a NetApp company*** <br /> 
+Boulder, CO <br /> 
 January 2014 to October 2014 
 
 - Wrote release notes, API guides, user guides, and online help for the support team, field technicians, developers, and customers. 
@@ -115,8 +115,8 @@ January 2014 to October 2014
 
 
 #### Contract Technical Writer 
-**Sybase, *an SAP company*** 
-Broomfield, CO 
+**Sybase, *an SAP company*** <br /> 
+Broomfield, CO <br /> 
 December 2012 to November 2013 
 
 - Wrote installation, configuration, and API guides on the Sybase Money Mobiliser Platform for developers, support, and customers. 
@@ -124,7 +124,7 @@ December 2012 to November 2013
 
 
 #### Technical Writing Consultant 
-Arvada, CO and remote 
+Arvada, CO and remote <br /> 
 July 2012 to January 2013 
 
 - Wrote design specifications for the enterprise planning and budgeting software. 
@@ -132,8 +132,8 @@ July 2012 to January 2013
 
 
 #### Contract Sr. Technical Writer & MadCap Flare Conversion Specialist
-**Level 3 Communications, *a CenturyLink company*** 
-Broomfield, CO 
+**Level 3 Communications, *a CenturyLink company*** <br /> 
+Broomfield, CO <br /> 
 August 2011 to July 2012 
 
 Wrote provisioning procedures in an online help format for field technicians in the fiber optic cable industry.
