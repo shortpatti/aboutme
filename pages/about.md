@@ -184,8 +184,8 @@ Wrote provisioning procedures in an online help format for field technicians in 
 ### Training and education
 
 #### Voice over acting 
-Such A Voice - Remote 
-Coach: [Jan Haley-Soule](https://www.imdb.com/name/nm1695988/) 
+Such A Voice - Remote <br />
+Coach: [Jan Haley-Soule](https://www.imdb.com/name/nm1695988/) <br />
 March 2019 - March 2020
 
 ##### Niche: 
@@ -207,9 +207,9 @@ March 2019 - March 2020
 
 
 #### Bachelor's in Health Science \| Environmental Health 
-Kaplan University - Remote 
+Kaplan University - Remote <br />
 October 2010 to May 2012 \[*Incomplete - shy 6 credits*\]
 
 #### Associate's of Applied Science \| Computer Science and Information Technology** 
-Denver Technical College, a division of DeVry University - Denver, CO 
+Denver Technical College, a division of DeVry University - Denver, CO <br />
 February 1999 to April 2001 
