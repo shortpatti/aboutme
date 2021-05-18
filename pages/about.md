@@ -32,7 +32,7 @@ July 2019 - Present
 
 | Project | Job Description |
 | ------- | --------------- |
-| [**Extreme Networks**](https://www.extremenetworks.com)<br />Technical Writer<br />100% remote<br />September 2020 - Present | Write and edit network hardware content in DITA for their Federal Information Processing Standards (FIPS) program. Write shell scripts to automate API content publishing. |
+| [**Extreme Networks**](https://www.extremenetworks.com)<br />Technical Writer<br />100% remote<br />September 2020 - May 2021 | Write and edit network hardware content in DITA for their Federal Information Processing Standards (FIPS) program. Write shell scripts to automate API content publishing. |
 | [**Netdata**](https://www.netdata.cloud)<br />Technical Writer<br />100% remote<br />February 2020 - April 2020 | Wrote product documentation for their open-source, real-time Linux server performance monitoring solution. |
 | [**ZPE Systems**](https://www.zpesystems.com)<br />Freelance Network Content Writer<br />100% remote<br />September 2019 - January 2020 | - Wrote an eBook for a marketing [campaign](https://www.zpesystems.com/resources/media-library/ebooks-whitepapers/how-automation-transforms-the-datacenter-landscape/) called "How Automation is Transforming the Datacenter Landscape"<br>- Wrote video scripts, provided the voice over, and did the final video production for pre-recorded screen capture how-to videos. |
 | [**WAX.io**](https://wax.io/)<br />Freelance Technical Marketing Writer<br />100% remote<br />July 2019 - August 2019 | Wrote a blog article called "What is NET, CPU and RAM on the WAX Blockchain?". |
@@ -43,7 +43,7 @@ July 2019 - Present
 100% remote <br /> 
 May 2020 - Present 
 
-Azure Dedicated technical writing working on the [Azure VMware Solution](https://docs.microsoft.com/en-us/azure/azure-vmware/introduction) and [BareMetal Infrastructure](https://docs.microsoft.com/en-us/azure/baremetal-infrastructure/workloads/sap/baremetal-overview-architecture) (SAP and Oracle) services.
+Azure Dedicated technical writing working on the [Azure VMware Solution](https://docs.microsoft.com/en-us/azure/azure-vmware/introduction) service.
 
 
 #### Technical Writer II
@@ -165,11 +165,11 @@ Wrote provisioning procedures in an online help format for field technicians in 
 
 #### Programming and misc. 
 - HTML5/CSS3 \| 85%
-- GitHub/Git/Git bash \| 85%
+- GitHub/Git/Git bash \| 90%
 - JIRA or other sprint-based systems \| 60%
 - Jekyll \| 50%
 - JavaScript \| 30%
-- Python \| 15%
+- Python \| 20%
 
 #### Remote, flexible work experience \| 95%
 - Focus and time management
@@ -178,12 +178,12 @@ Wrote provisioning procedures in an online help format for field technicians in 
 - Growth mindset
 - Comfortable with digital communication
 - Video conferencing: MS Teams, Skype, Google Hangouts, Zoom, Slack
-- Instant messaging: Skype, Slack, Google Chat
+- Instant messaging: Skype, Slack, Google Chat, MS Teams
 - File sharing: Google Drive, Box, Dropbox, OneDrive
 
 ### Training and education
 
-#### Voice over acting 
+#### [Voice over acting](https://www.pattishortvo.com) 
 Such A Voice - Remote <br />
 Coach: [Jan Haley-Soule](https://www.imdb.com/name/nm1695988/) <br />
 March 2019 - March 2020
