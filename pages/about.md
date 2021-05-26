@@ -43,7 +43,7 @@ July 2019 - Present
 100% remote <br /> 
 May 2020 - Present 
 
-Azure Dedicated technical writing working on the [Azure VMware Solution](https://docs.microsoft.com/en-us/azure/azure-vmware/introduction) service.
+Azure Dedicated technical writing working on the [Azure VMware Solution](https://docs.microsoft.com/en-us/azure/azure-vmware/introduction) service. Work in close collaboration with development, design, and project management teams.
 
 
 #### Technical Writer II
